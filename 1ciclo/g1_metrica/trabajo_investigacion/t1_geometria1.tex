@@ -1,0 +1,102 @@
+
+
+% Este es un documento básico en LaTeX con paginación y con el texto loren ipsum en latín.
+
+% Primero, especificamos el tipo de documento que queremos crear (artículo, libro, etc.) y el tamaño de letra.
+\documentclass[10pt]{article}
+
+% A continuación, importamos paquetes adicionales que nos permiten modificar y personalizar el diseño del documento.
+\usepackage{geometry} % Este paquete nos permite ajustar los márgenes del documento.
+
+% Aquí ajustamos los márgenes del documento con el paquete geometry.
+\geometry{
+    a4paper,
+    total={170mm,257mm},
+    left=20mm,
+    top=20mm,
+}
+
+% Ahora comenzamos el cuerpo del documento.
+\begin{document}
+\fontsize{14}{14}\fontfamily{Times New}\selectfont{}
+
+% Agregamos un título al documento.
+\title{Geometría I (Métrica)}
+\author{Andres Imlauer}
+\def\spanishdate{\def\today{\number\day~de~\ifcase\month\or
+enero\or febrero\or marzo\or abril\or mayo\or junio\or
+julio\or agosto\or septiembre\or octubre\or noviembre\or
+diciembre\fi~2023}}
+\spanishdate
+\maketitle
+
+% Ahora agregamos el texto del documento. Para este ejemplo, usaremos el paquete lipsum para generar texto aleatorio en latín.
+\section{Linea del Tiempo}
+- 624 a.C.: Nace Tales de Mileto en la ciudad de Mileto, en la región de Jonia, en la costa oeste de Asia Menor (actual Turquía). \\
+- 570 a.C.: Nace Pitágoras en la isla de Samos, en el mar Egeo.\\
+- 546 a.C.: Muere Tales de Mileto en Mileto.\\
+- 530 a.C.: Pitágoras funda su escuela de filosofía y matemáticas en Crotona, una ciudad griega en el sur de Italia.\\
+- 500 a.C.: Pitágoras y sus seguidores realizan importantes descubrimientos en matemáticas, incluyendo el teorema de Pitágoras, la proporción áurea y\\
+la teoría de los números.\\
+- 300 a.C.: Nace Euclides en Alejandría, Egipto.\\
+- 300 a.C. - 275 a.C.: Euclides escribe "Los Elementos", una obra que establece las bases de la geometría como disciplina matemática y que se convierte en una obra de referencia en la historia de las matemáticas.\\
+- 265 a.C. - 190 a.C.: Arquímedes, otro matemático y científico griego, utiliza los principios geométricos de Euclides para hacer importantes descubrimientos en física y matemáticas.\\
+- Siglo III a.C.: La obra de Euclides se traduce al latín y se convierte en un libro de texto indispensable en las escuelas de Europa durante la Edad\\
+{\bf Media y el Renacimiento.} \\
+- Siglo XX: La obra de Euclides sigue siendo una obra de referencia en la enseñanza de la geometría a nivel mundial.\\
+\\
+Esta es una línea de tiempo general que resume las fechas más importantes en la vida y obra de Tales de Mileto, Pitágoras y Euclides. Es importante tener en cuenta que las fechas exactas pueden variar según las fuentes y la interpretación de los historiadores y matemáticos.
+
+\section{Aportes de Tales de Mileto, Pitágoras, Euclides}
+{\bf Tales de Mileto}:
+- Se le atribuye la predicción del eclipse solar en el año 585 a.C., lo que demuestra su conocimiento en astronomía.
+- Fue el primero en utilizar la geometría para medir distancias y calcular alturas de objetos lejanos, por ejemplo, midiendo la altura de las pirámides de Egipto a través de la sombra que proyectaban.
+- Se le atribuyen varios teoremas geométricos, como el teorema de Tales, que establece que dos rectas paralelas cortadas por una tercera recta forman segmentos proporcionales. \\ 
+{\bf Pitágoras}:
+- Es conocido principalmente por el teorema de Pitágoras, que establece que en un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.
+- Fundó una escuela filosófica y religiosa que promovía la idea de que todo en el universo puede ser representado matemáticamente, lo que influyó en el desarrollo de la ciencia y la filosofía en la antigua Grecia.
+- Desarrolló la teoría de la música pitagórica, que establece que los sonidos musicales pueden ser reducidos a relaciones numéricas simples, lo que tuvo un impacto en la música y la acústica. \\
+{\bf Euclides}:
+- Es conocido principalmente por su obra "Los Elementos", un tratado de geometría que fue utilizado como texto de referencia por siglos y estableció las bases de la geometría euclidiana.
+- En "Los Elementos", Euclides establece los axiomas y postulados básicos de la geometría, y demuestra una gran cantidad de teoremas y proposiciones geométricas utilizando la lógica y el razonamiento deductivo.
+- También se le atribuyen obras sobre óptica y perspectiva, que influyeron en la pintura y la arquitectura de la época.
+
+
+\section{Que estudia la Geometria?}
+La geometría es una rama de las matemáticas que se ocupa del estudio de las propiedades y las relaciones de los puntos, las líneas, las superficies, los sólidos y las figuras en el espacio. Esta disciplina se basa en axiomas y teoremas que permiten establecer demostraciones rigurosas sobre las propiedades de las figuras geométricas. La geometría tiene diversas aplicaciones en la física, la arquitectura, la ingeniería, la informática, la cartografía, entre otras áreas.
+
+
+\section{Nociones de la geometría antes de Tales de Mileto, Pitágones, Euclides}
+Sí, existen nociones de geometría previas a las de Mileto, Pitágoras y Euclides. La geometría se ha desarrollado en diferentes culturas desde la antigüedad, como la egipcia, la babilónica, la india y la china, entre otras. Por ejemplo, los egipcios utilizaban la geometría para medir y dividir sus campos después de las inundaciones del Nilo, y los babilonios utilizaban tablas de arcilla para realizar cálculos geométricos y resolver problemas prácticos.
+
+\begin{itemize}
+\item{Antiguo Egipto}: Los egipcios utilizaban la geometría para medir y dividir sus campos después de las inundaciones del Nilo. Utilizaban técnicas como el teorema de Pitágoras, la proporción áure
+a y la simetría. También construyeron pirámides, templos y monumentos que requerían conocimientos avanzados de geometría.
+
+\item{Antigua Mesopotamia}: Los babilonios eran expertos en el uso de tablas de arcilla para realizar cálculos geométricos y resolver problemas prácticos de construcción, como la excavación de canal
+es y la construcción de diques. También desarrollaron métodos para calcular áreas y volúmenes, así como para resolver ecuaciones cuadráticas.
+
+\item{Antigua India}: Los indios desarrollaron una rama de la geometría conocida como geometría sagrada, que se utilizaba en la construcción de templos y monumentos. También desarrollaron el concept
+o de cero y el sistema de numeración decimal, que son fundamentales para la geometría y las matemáticas modernas.
+
+\item{Antigua China}: Los chinos desarrollaron la geometría para resolver problemas prácticos de medición y construcción, como la construcción de puentes y canales. También desarrollaron el concepto
+ de proporción y desarrollaron técnicas avanzadas para la medición de ángulos y distancias.
+\end{itemize}
+
+En resumen, la geometría es una disciplina que ha sido desarrollada por diferentes culturas a lo largo de la historia, y que ha sido utilizada para resolver problemas prácticos y para construir
+ monumentos y edificios impresionantes. Mileto, Pitágoras y Euclides son solo algunos de los nombres más conocidos en la historia de la geometría, pero hay muchas otras personas y culturas que
+han contribuido a su desarrollo.
+
+\section{Definiciones de los diferentes objetos mencionados en el video}
+- {\bf Punto}: En geometría, un punto es una entidad elemental que no tiene dimensiones. Se representa como un pequeño punto en el espacio y se utiliza como referencia para establecer la posición de otras figuras geométricas. \\
+- {\bf Recta}: Una recta es una figura geométrica que se extiende indefinidamente en dos direcciones opuestas. Está formada por una sucesión de puntos alineados y se representa mediante una línea recta.\\
+- {\bf Espacio}: El espacio es un concepto fundamental en geometría que se utiliza para referirse a la extensión tridimensional que rodea a los objetos. Se puede definir como la suma de todas las posiciones posibles que puede ocupar un objeto en el universo.\\
+- {\bf Plano}: Un plano es una superficie plana que se extiende indefinidamente en todas las direcciones. Está formado por una sucesión de rectas paralelas y se utiliza como referencia para establecer la posición de otras figuras geométricas.\\
+- {\bf Segmento}: Un segmento es una porción de recta que se extiende entre dos puntos. Se representa mediante una línea recta con dos puntos extremos.\\
+- {\bf Semirrecta}: Una semirrecta es una porción de recta que se extiende indefinidamente en una sola dirección. Se representa mediante una línea recta con un punto extremo y una flecha que indica la dirección de la recta.\\
+- {\bf Rayo}: Un rayo es una porción de recta que se extiende indefinidamente en una sola dirección, pero que tiene un punto extremo. Se representa mediante una línea recta con un punto extremo y una flecha que indica la dirección de la recta.\\
+- {\bf Figuras geométricas}: Las figuras geométricas son formas que se pueden definir mediante propiedades y características específicas. Algunas de las figuras geométricas más comunes son el triángulo, el cuadrado, el círculo, el rectángulo, el trapecio, el rombo y el hexágono, entre otros.
+
+
+% Finalmente, cerramos el cuerpo del documento.
+\end{document}

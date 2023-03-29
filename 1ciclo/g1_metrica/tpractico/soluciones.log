@@ -1,0 +1,767 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.7)  29 MAR 2023 12:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**soluciones.tex
+(./soluciones.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count188
+\l__pdf_internal_box=\box47
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen147
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip16
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks18
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks19
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (./soluciones.aux)
+\openout1 = `soluciones.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=557.38951pt
+* \textheight=738.0645pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--67
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--165
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 208.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 208.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 209.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 209.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 210.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 210.
+
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--214
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 216.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 216.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 218.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 218.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 218.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 218.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 220.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 220.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 233.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 233.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 233.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 233.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 233.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 233.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+[4]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 238.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 238.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 238.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 238.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--244
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 246.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 246.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 247.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 247.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 247.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 247.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 247.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 247.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 248.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 248.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 248.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 248.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 249.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 249.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
+
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--256
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 258.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 264.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 264.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 264.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 264.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 264.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 264.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--316
+
+ []
+
+[5] [6] (./soluciones.aux) ) 
+Here is how much of TeX's memory you used:
+ 1835 strings out of 481252
+ 28866 string characters out of 5915889
+ 485317 words of memory out of 5000000
+ 18798 multiletter control sequences out of 15000+600000
+ 408236 words of font info for 44 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 68i,6n,75p,665b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/esotericwarfare/.texlive2020/texmf-var/font
+s/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on soluciones.pdf (6 pages, 87924 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
