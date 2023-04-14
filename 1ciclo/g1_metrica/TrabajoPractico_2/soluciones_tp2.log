@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.7)  14 APR 2023 02:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.7)  14 APR 2023 02:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -148,7 +148,7 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box49
 )
-No file soluciones_tp2.aux.
+(./soluciones_tp2.aux)
 \openout1 = `soluciones_tp2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -165,6 +165,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -296,11 +297,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--51
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -501,11 +502,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--101
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 102--120
@@ -554,11 +555,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--120
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [3]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 130
@@ -754,11 +755,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--193
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [4]
 
@@ -895,11 +896,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--237
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [5]
 
@@ -1923,58 +1924,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--400
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [6]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [7]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [8]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.24997pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.24997pt}.
+(fancyhdr)                Make it at least 12.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.60004pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.24997pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [9] (./soluciones_tp2.aux) ) 
 Here is how much of TeX's memory you used:
- 2356 strings out of 481252
- 31489 string characters out of 5915889
- 332973 words of memory out of 5000000
+ 2358 strings out of 481252
+ 31521 string characters out of 5915889
+ 333964 words of memory out of 5000000
  19313 multiletter control sequences out of 15000+600000
- 407442 words of font info for 42 fonts, out of 8000000 for 9000
+ 407438 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  68i,11n,74p,760b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/esotericwarfare/.texlive2020/texmf-var/font
 s/pk/ljfour/jknappen/ec/tcrm1000.600pk> </home/esotericwarfare/.texlive2020/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/tcrm1728.600pk></usr/share/texlive/texmf-dis
+mf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+nts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb>
-Output written on soluciones_tp2.pdf (9 pages, 92833 bytes).
+Output written on soluciones_tp2.pdf (9 pages, 92400 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
