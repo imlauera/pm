@@ -1,0 +1,123 @@
+UNIVERSIDAD NACIONAL DE MISIONES
+FAC. CS. EXACTAS, QUÍMICAS Y NATURALES
+PROFESORADO EN MATEMÁTICA
+GEOMETRÍA I (MÉTRICA)
+Prof. Graciela C. Lombardo - Prof. Roxana V. Operuk – Prof. Viviana Pereyra.
+2015
+
+Trabajo Practico N° 2
+Congruencia:
+1) Un triángulo ABC es isósceles, donde el ángulo B se opone el lado desigual, tiene dibujada la altura BM .¿es cierto que los triángulos ABM y BCM son congruentes? . justifique.
+
+2) En un cuadrado MNPQ se trazó una de las diagonales del mismo, usa algunos de los criterios para demostrar que la diagonal divide al cuadrado en dos triángulos congruentes.
+
+3) ¿Será cierto que las diagonales de un cuadrado lo dividen en cuatro triángulos congruentes?. Justifique.
+
+4) El dibujo muestra la circunferencia, ¿se verifica que los triángulos ABC y AED son congruentes?. justifique
+
+5) En un romboide ABCD la diagonal principal es AC. Demuestra con algún criterio de congruencia que la diagonal principal divide el romboide en dos triángulos congruentes.
+
+6) Muestra que las diagonales de cualquier trapecio isósceles son iguales. Justifica los pasos realizados.
+
+7) Si en un cuadrilátero PQRS se traza la diagonal PR, quedan determinados los triángulos PRS y PRQ, que son congruentes. En cambio sí se traza la diagonal QS, quedan determinados los triángulos PQS y RQS, que son congruentes. ¿Qué tipo de cuadrilátero es PQRS?
+
+8) Sabiendo que los triángulos ABC y DEF son isósceles y congruente Encuentra los valores de x y de y
+
+9) En la siguiente figura, se sabe que K es punto medio de PS y de QR. ¿Los triángulos PKR y QKS pueden ser congruentes? Justificar.
+
+Ángulos formados por dos rectas cortadas por una tercera
+10) Hallar el valor de todos los ángulos
+
+11) El cuadrilátero ABCD es paralelogramo, además el segmento FG es paralelo al lado AD y HI es paralelo al lado DC. Elegir dos ángulos que sean iguales y explicar por qué. ¿habrá otros dos ángulos que también sean iguales?
+
+¿Cuáles son los ángulos de la figura, que al sumarlos, dan por resultado 180°?
+̂ = 60° y 𝐹𝐵𝐶
+̂ = 50°
+12) En el cuadrilátero ABCD, se verifica que AB //GE//DC, AD//BF, 𝐺𝐷𝐹
+
+a) ¿Calcula el valor de todos los ángulos de la figura?. Justificar.
+b) Nombra dos pares de ángulos correspondientes y dos pares de ángulos alternos internos
+
+13) En la figura ADEF es un paralelogramo.
+a. ¿Es cierto que los ángulos de los triángulo DCE y EFB son congruentes?¿Por qué?
+b. Determinar la menor cantidad de datos posibles en la figura de modo que a partir de ellos se puedan
+calcular las medidas de todos los ángulos.
+
+Suma de los ángulos de un triángulo. Desigualdad triangular.
+14) Sean los siguientes triángulos
+
+I)
+
+En caso de ser posible por medio de los datos dados identifica a algunos de los triángulos. Decidir cuáles son las
+frases que les corresponden:
+a) Tiene tres ángulos congruentes.
+b) Tiene dos ángulos congruentes.
+c) Tiene un ángulo recto
+d) Tiene un ángulo obtuso
+e) Tiene dos lados iguales y dos ángulos iguales
+
+II)
+III)
+
+¿En alguno de los casos la frase identifica a un único triángulo?
+Armar una frase que identifique a único triángulo. ¿Qué información será necesaria considerar?
+
+15) Dibujar un triángulo con las siguientes medidas, donde el segmento “a” represente a dos de sus lados. ¿es único
+o se puede construir otro de diferente forma? ¿Qué se puede decir respecto de sus ángulos?. Justifique.
+
+16) Construir un triángulo con regla y compás:
+a) Donde dos de sus lados sean 6 cm y 4cm. ¿es único o se puede construir otro triángulo? ¿de qué depende?
+b) Con un ángulo de 80° y otro de 60° ¿es único o se puede construir otro triángulo? ¿de qué depende?
+c) Con un ángulo de 90°, otro de 60° y un tercero de 70° ¿es único o se puede construir otro triángulo? ¿de qué
+depende?
+d) Donde sus lados midan 3 cm , 4 cm y 7 cm ¿es único o se puede construir otro triángulo? ¿de qué depende?
+
+17) Se sabe que el triángulo ABC es isósceles y que AB = BC, α= β, donde β = 2x + 10° y γ = 7x + 8° . ¿Cuál es la medida de cada ángulo del triángulo?
+
+
+18) Las siguientes son ternas de medidas para los lados de un triángulo, ¿es posible construir los mismos? Justifique.
+a) 5cm 4cm y 9cm
+b) 3cm 5cm y 6cm
+c) 8cm 2cm y 10cm
+
+19) Se tienen las siguientes expresiones de los ángulo interiores de un triángulo 𝛼 = 2𝑥 + 30°, 𝛽 = 𝑥 + 40° y 𝛾 = 𝑥 + 50°. ¿se puede construir? ¿es único?
+
+Suma de ángulos interiores y exteriores de un polígono convexo.
+20) Si la suma de las medidas de los ángulos interiores de un polígono es igual a la suma de las medidas de sus
+ángulos exteriores, ¿cuántos lados tiene el polígono?
+21) Plantear una justificación de que los ángulos opuestos de un paralelogramo son iguales.
+22) Si GHIJ es un paralelogramo, HM y GL son bisectrices de los ángulos GHI y HGJ respectivamente y J = 120°,
+¿cuánto mide el ángulo φ?
+
+23) En la figura se cumple que α+β=ε y α=2β, entonces los ángulos α, β, ε miden respectivamente:
+a) 90 ,60 ,30.
+b) 60 ,30 ,90
+c) 45 ,45 ,90.
+d) 120 ,60 ,180
+24) ¿Cuántos lados tiene el polígono que cumple que la diferencia de la suma de los ángulos interiores menos la suma de los ángulos exteriores es 900°?
+25) En el polígono ABCDE, se cumple que: A=125°; B=1/2 A; D=5/3E; E=3/2B. Calcular la medida del ángulo C.
+26) En el polígono ABCDE, A= x+45°; B=2x-40°; C=3x-70°; D=2x+25°; E=x+85°. Cuál es la medida de cada ángulo interior.
+27) ¿Es posible dibujar un polígono regular de 7 lados con un ángulo exterior de 152°?
+
+Cuadriláteros planos. Clasificación. Propiedades. Construcciones
+28) Los segmentos a y b son paralelos.
+
+a) Dibuja un cuadrilátero que tenga un par de lados opuestos sobre los segmentos a y b y otro par de lados que
+sean paralelos entre sí y corten a los segmentos a y b.
+b) ¿es posible dibujar más de un cuadrilátero?
+29) Se sabe que ABCD es un cuadrado y que BCE es un triángulo rectángulo isósceles. Decidir si es cierto que el
+cuadrilátero CEBA es un paralelogramo.
+
+30) ¿Son ciertas las siguientes afirmaciones?
+a) Si un paralelogramo tiene dos de sus diagonales iguales seguro es un cuadrado
+b) Si un paralelogramo tiene dos diagonales que forman ángulos rectos, seguro que es un rombo
+
+31) El segmento a es la diagonal de un cuadrado. ¿se puede construir usando regla no graduada y compás? ¿es posible construir más de uno?
+
+32) En el paralelogramo ABCD se indica la diagonal AC y en el paralelogramo EFGH se indica la diagonal HF.
+Analizar si es verdad la siguiente proposición: “en estos paralelogramos cada diagonal lo divide en dos triángulos
+congruentes” ¿ qué argumentos aseguran la respuesta?
+
+33) ¿Se puede estar seguro que si un paralelogramo tiene sus ángulos opuestos iguales se trata de un rectángulo?
+34) La siguiente figura es un rombo ABCD que fue construido a partir de dos triángulos equiláteros congruentes . se trazaron las mediatrices de los lados BC y AD . ¿es cierto que el cuadrilátero AEBF es un rectángulo?
+
