@@ -1,0 +1,1958 @@
+UNIVERSIDAD NACIONAL DE
+MISIONES
+Facultad de Ciencias, Exactas, Químicas
+y Naturales
+
+Módulo: Química
+INGRESO 2023
+GUÍA DE PROBLEMAS
+ARTICULACIÓN NIVEL MEDIO
+UNIVERSIDAD NACIONAL DE MISIONES
+DEPARTAMENTO DE FISICOQUÍMICA: “Proyecto Principal Departamental”
+Integrantes proyecto:
+Dra. Kruyeniski, Julia
+Dr. Kramer, Gustavo Raúl
+Dr. Kociubczyk, Alex Iván
+Morinisi, Rodrigo (alumno avanzado carrera ingeniería química)
+Dra. Ramos, Silvina Gabriela
+Dra. Román, Alejandra Silvina
+
+0
+
+Bienvenido
+En este curso se abordarán los temas de química general que le serán de utilidad para
+adquirir con mayor facilidad aquellos conocimientos necesarios para afrontar con éxito las
+materias iniciales de la carrera escogida.
+Se considera prerrequisito indispensable para el cursado en forma amena la revisión de
+contenidos concretos incluidos en los programas de nivel medio.
+La presente construye una guía de ejercitación que incluye algunos conceptos necesarios
+para la resolución de problemas. Se sugiere sea abordada previamente a su participación
+en las clases. En las mismas, los docentes del área y los estudiantes tratarán las situaciones
+problemáticas, brindándole el marco teórico necesario. Como herramienta adicional, se
+presentan una serie de problemas resueltos sobre los temas principales, acompañados de
+un sintético desarrollo teórico, los cuales son presentados a modo de orientación.
+En cuanto a la bibliografía recomendada a consultar para el seguimiento del módulo, cabe
+aclarar que el material que haya sido empleada en la enseñanza media le será de gran
+utilidad.
+
+1
+
+Química
+Denominamos “QUÍMICA” al módulo integrado por conceptos básicos pero
+imprescindibles para acceder al aprendizaje de la FISICOQUÍMICA, que es una ciencia
+cuyo objetivo es el estudio de los procesos químicos desde un punto de vista físico. Los
+recursos necesarios para su abordaje incluyen temas de la química general básica.
+Objetivo general
+Brindar al estudiante una idea global sobre química general como recurso elemental para
+la ciencia fisicoquímica; su lenguaje, su simbología y objetivos.
+Objetivos específicos
+Por parte de los estudiantes.
+- Adquirir un hábil manejo de la tabla periódica, y comprender los conceptos vinculados a
+la información contenida en ella.
+- Comprender, relacionar, y aplicar formulación química, nomenclatura, valencias de los
+elementos y estequiometría.
+- Desarrollar habilidades suficientes para interpretar y resolver problemas relacionados a
+la estequiometría de las reacciones químicas.
+- Resolver las situaciones problemáticas planteadas, con el auxilio de los conceptos
+fundamentales.
+Bibliografía recomendada
+✓ QUÍMICA GENERAL INORGÁNICA. Autor: M. Fernández. Editorial: Serventi
+✓ TEMAS DE QUÍMICA GENERAL. Autor: M. Angelini y otros. Editorial: Eudeba.
+✓ QUÍMICA: Estructura, comportamiento y transformaciones de la materia. Autor: M.
+Alegría y otros. Editorial: Santillana.
+✓ QUÍMICA. Autor: R. Chang. Editorial: Mc. Graw Hill.
+CONTENIDOS MÍNIMOS QUÍMICA
+Fundamentos básicos de química. Metodología de formulación y nomenclatura química
+inorgánica. Nomenclatura: enfoques clásico y moderno. SALES: formulación,
+nomenclatura y clasificación. Balances estequiométricos; métodos de determinación de
+coeficientes estequiométricos: prueba/error y algebraico. Cálculos estequiométricos:
+relaciones de masas, números de moles y volúmenes.
+
+2 GUÍA DE PROBLEMAS
+Temas Introductorios
+PROBLEMA 1 (RESUELTO): El átomo normal (neutro) de un cierto elemento, cuenta
+con 15ea) Indicar su número atómico.
+b) Ubicarlo en la tabla periódica y obtener de ésta su símbolo, número de protones
+y cantidad de neutrones más probable.
+c) Tomar de la misma fuente su masa atómica relativa y calcular su masa atómica
+absoluta [en gramos]
+d) Indicar el número de electrones que posee en cada nivel ocupado y su
+configuración electrónica simplificada.
+e) Determinar de la tabla, a qué grupo y período pertenece; indicando si se trata de
+un metal, un no metal o un gas noble.
+Todo átomo cuenta con un núcleo, donde se sitúan los protones y los neutrones. Los
+electrones se ubican en la periferia del átomo, en niveles energéticos definidos. Estos
+niveles se escalonan, no resultando los valores intermedios posibilidades de presencia
+de electrones. Por ello estas partículas pueden tomar o ceder solo cantidades discretas
+de energía denominadas cuantos y corresponden a las diferencias energéticas entre
+niveles.
+Todos los átomos de un mismo elemento cuentan con igual número de protones en su
+núcleo, a este número se denomina número atómico (Z) y es entonces característico del
+elemento. En un átomo normal (neutro) el número de electrones coincide con el de
+protones (la carga de un electrón [-] coincide en valor absoluto con la del protón [+]).
+El número de neutrones puede diferir con el de protones (frecuentemente es mayor). La
+suma de protones más neutrones en un átomo se denomina número másico (A).
+Cada electrón se caracteriza en un átomo a través de cuatro números (“cuánticos”), no
+pudiendo haber dos con todos ellos iguales (“principio de exclusión”).
+Los números cuánticos son: n: principal (define el nivel), l: azimutal (define el subnivel),
+m: magnético y ms: spin. Los niveles se denominan con los números 1, 2, 3, 4, .... y los
+subniveles con las letras s, p, d, f, ....(poseen además una denominación numérica).
+La configuración electrónica “simplificada” consiste en dar el detalle de electrones que
+posee el átomo de un elemento consignando nivel, subnivel y número de electrones como
+supraíndice de este último (respetando el orden en que se van completando subniveles).
+Ejemplificando: el átomo de Cl tiene Z = 17 ⇒ 17 e-, resultando su configuración
+electrónica: 1s2 2s2 2p6 3s2 3p5. La mejor manera de determinar el orden de llenado por
+subniveles, lo constituye la tabla periódica: las dos primeras columnas (grupos)
+representan las zonas de llenado de los sucesivos subniveles s, indicando el nivel la fila
+o período a que corresponde. Las seis últimas columnas (grupos) corresponden al
+llenado de los subniveles p, el nivel se obtiene del período al igual que para los s. Las 10
+columnas al medio de la tabla corresponden al llenado de los subniveles d comenzando
+por el 3d y las series de 14 que habitualmente se adicionan al pie de la tabla,
+corresponden al llenado de los orbitales f, comenzando por el 4f.
+La Tabla Periódica consiste en un ordenamiento natural de los elementos según números
+atómicos crecientes. Como las propiedades de los elementos son función periódica de
+tales números, se van agrupando a la vez en grupos de elementos análogos (en general
+
+3 dados por las columnas). Estas analogías surgen precisamente de las similitudes de las
+configuraciones electrónicas de los últimos niveles.
+a) El número de protones coincidirá con el de electrones ⇒ Z = 15
+b) El elemento es el fósforo, símbolo P. Posee 15 protones y el número más
+probable de neutrones es 16 (dada que el número másico es A=31).
+c) La masa atómica relativa (de tabla periódica) es 30,97 (valor comparado con la
+1/12 de la masa del 12C). La unidad de masa atómica relativa se relaciona con
+el gramo con el número de Avogadro; 1 g ≡ 6,023 x 1023 unidades de masa at.
+⇒ masa atómica absoluta del P es: m = 30,97 ÷ 6,023.1023 = 5,142 x10-23g
+d) Nivel 1: 2 e-; Nivel 2: 8 e- y Nivel 3: 5 e- .
+Configuración electrónica: 1s2 2s2 2p6 3s2 3p3
+e) Es un no metal perteneciente al período 3 y el grupo V (del nitrógeno)
+PROBLEMA 2: Para los siguientes elementos: oxígeno, cloro, silicio, potasio, bario,
+cobalto, argón y mercurio; con el auxilio de la tabla periódica, precise:
+
+Número atómico
+
+Grupo y período
+a que pertenece
+
+Es metal, no metal o gas
+inerte
+
+Oxígeno
+Cloro
+Silicio
+Potasio
+Bario
+Cobalto
+Argón
+Mercurio
+
+PROBLEMA 3: Indique el número atómico y número másico para cada uno de los
+siguientes átomos:
+a) átomo de plomo que cuenta en su núcleo con 125 neutrones
+b) átomo de calcio que posee igual cantidad de neutrones que electrones
+c) átomo neutro que posee 56 electrones y el número de neutrones excede
+en 25 al número de protones de su núcleo.
+PROBLEMA 4: Indique de cuál se trata (consignando símbolo y número atómico):
+a) elemento del 4º período que cuenta con un electrón en su último nivel
+b) elemento perteneciente al grupo del N, que posee electrones en sus
+primeros cuatro niveles
+c) elemento del grupo de los halógenos, que posee igual número de niveles
+ocupados por electrones, que el antimonio
+d) elemento que posee 3 electrones en el subnivel 4p
+
+PROBLEMA 5: En la tabla periódica se ordenan a los elementos estrictamente según:
+a) números atómicos crecientes
+b) masas atómicas crecientes
+Analice cual o cuales de las aseveraciones es o son correctas. En caso de que alguna fuera
+falsa, busque de la tabla dos ejemplos que lo demuestren (elementos consecutivos)
+PROBLEMA 6: Calcule las masas moleculares de las siguientes sustancias:
+a) H2O b) HNO3 c) Na(OH) d) Pb(SO4)2
+e)CH3-COO-CH3
+PROBLEMA 7 (RESUELTO): Dados 0,008 mol de NH3 calcular qué cantidad
+representa: a) en gramos; b) en moles de N y H; c) en gramos de N y H; d) en moléculas
+de NH3; e) en átomos de N y H.
+El mol, cuyo símbolo es mol, es la unidad de cantidad de sustancia del SI (Sistema
+Internacional de Unidades) que se define como la cantidad de sustancia de un sistema
+que contiene 6,02214076.1023 entidades elementales (como ser átomos, moléculas,
+iones, electrones, cualquier otra partícula o un grupo especificado de tales partículas)
+A este número (6,02214076.1023) se lo llama número de Avogadro en honor al científico
+italiano Amadeo Avogadro (1776-1856), y se lo simboliza como NA.
+El mol también tiene equivalencia con la masa, a través de la masa molar de la sustancia
+considerada, que tendrá la unidad g/mol (para el caso de expresar la masa en gramos).
+El número de Avogadro también representa la relación entre unidad de masa atómica y
+gramos, tomando en este caso la unidad uma/g. Esta similitud de relación de
+dimensiones: 6,022.1023 uma/g y 6,022.1023 moléculas o átomos/mol; hace que la cifra
+representativa de la masa de un mol [g] coincida con la cifra que en uma representa la
+masa (por ejemplo) de la molécula. Por caso: masa de 1 molécula de agua = 18 uma y
+masa de un mol de agua = 18 g (representando esta última cantidad 6,022.1023 veces la
+primera).
+a) Masa molecular NH3: MAN + 3 MAH = 14 + 3 x 1 = 17 _ Mmol = 17 g
+masa = Nº moles x masa molar = 0,008 mol x 17 g/mol = 0,136 g
+b) A partir de la fórmula del compuesto: c/mol de NH3 contiene 1 mol de átomos de N y
+3 moles de átomos de H → moles N = moles NH3 = 0,008 mol y
+moles H = 3 x moles NH3 = 3 x 0,008 = 0,024 mol
+c) masamol N = 14 g
+masamol H = 1 g
+masa N = Nº moles x masa molar = 0,008 mol x 14 g/mol = 0,112 g
+masa H = 0,024 mol x l g/mol = 0,024 g
+d) moléculas NH3 = Nº moles x Avogadro = 0,008 moles x 6,022 .1023 = 4,818.1021
+moléculas.
+e) de la fórmula: átomos N = moléculas NH3 = 4,818.1021 átomos
+Átomos H = 3 x moléculas NH3 = 1,4455.1022 átomos
+
+PROBLEMA 8: Calcular la masa (en gramos) que corresponde a cada caso.
+a.- 1,2 mol de H2O
+b.- 0,04 mol de CO2
+c.- 20 moles de O3
+d.- 1,2x10-4 moles de CH3-COO-CH3
+e.- Un número igual al de dos veces el de Avogadro de moléculas de H2SO4
+
+PROBLEMA 9:
+Determinar el número de oxidación de cada elemento en los siguientes compuestos (o
+iones):
+a) P_2O_3
+b) CO_2
+c) C_2H_2
+d) HNO_3
+e) H_2SO_3
+f) Cl_2
+g) Br2O7
+h) Ca
+i) Li_2SO_4
+j) $H^+$
+Solución punto a)
+El número de oxidación de un átomo, también llamado estado de oxidación, es un número
+empírico que simboliza las cargas que tendría un átomo en una molécula (o en un ion o
+compuesto iónico) si los electrones fueran transferidos completamente (o también si todos
+sus enlaces fueran iónicos).
+a) P2O3
+Aplicando una de las reglas básicas que dice que “la suma de los números de oxidación
+de los átomos que componen una molécula neutra es cero” (y en el caso de ser un ión, la
+suma es igual a la carga del ión), podemos escribir:
+Nro. Ox. (Fósforo) + Nro. Ox. (Oxígeno) = 0
+2X
++
+3Y
+= 0
+Dónde: X = número de oxidación del fósforo;
+Y = número de oxidación del oxígeno;
+2 es la atomicidad del fosforo en la molécula y 3 es la atomicidad del oxígeno en la molécula;
+y Nro. Ox. es la abreviatura de número de oxidación.
+
+Resulta una ecuación con dos incógnitas. Para su resolución es necesario conocer el valor
+de una de ellas. Existen elementos que tienen números de oxidación definidos y fijos
+cuando se combinan con ciertos elementos cumpliendo las siguientes reglas:
+✓ El número de oxidación de un elemento en su estado libre es cero.
+✓ Para los iones monoatómicos el número de oxidación es igual a la carga del ión.
+✓ El número de oxidación del oxígeno es -2 (excepto en los peróxidos, donde es -1
+y en el ión superóxido O2- es -½).
+✓ El número de oxidación del hidrógeno es +1 (excepto en los hidruros metálicos,
+donde es -1).
+✓ El flúor tiene número de oxidación -1 en todos sus compuestos. El número de
+oxidación de los halógenos, en los halogenuros, es -1. Cuando están combinados
+con oxígeno (anhídridos) y oxianíones tienen valores positivos (exceptuado el
+flúor).
+✓ El número de oxidación de los metales alcalinos es +1.
+✓ El número de oxidación de los metales alcalinos térreos es +2.
+✓ El número de oxidación del azufre, en los sulfuros, es -2.
+Sabiendo entonces que en este caso el número de oxidación del oxígeno es -2, se deduce
+que Y = -2
+Entonces, aplicándolo a la ecuación anterior:
+2 . X + 3 . (-2) = 0  X = 6/2 X = +3
+Es decir que el número de oxidación del P en el anhídrido fosforoso es +3
+6
+
+Tema principal
+PROBLEMA 1: Consigne el tipo de sustancia que obtendría de la reacción entre:
+a.- Metal + Oxígeno →______________________
+b.- Sodio + Oxígeno →______________________
+c.- No metal + Oxígeno →_______________________
+d.- Carbono + Oxígeno →_______________________
+e.- Metal + Hidrógeno →_______________________
+f.- No metal + Hidrógeno → _______________________
+g.- Óxido ácido + agua →_______________________
+h.- Sodio + Hidrógeno →______________________
+i.- Trióxido de dinitrógeno + agua → ______________________
+j.- Óxido básico + agua →______________________
+k.- Óxido de sodio + agua → ______________________
+l.- Anhídrido + agua →______________________
+m.- Pentóxido de dinitrógeno + agua →______________________
+n.- Hidrácido + hidróxido →______________________
+o.- Cloruro de Hidrógeno + Hidróxido Ferroso → ________________
+p.- Oxácido + Base →______________________
+q.- Ácido clórico + Hidróxido férrico → ______________________
+PROBLEMA 2: Dados los elementos: Boro, Magnesio, Hierro, Carbono, Cobre, Plomo,
+Azufre, Cloro y Fósforo:
+a.- Indicar sus símbolos y sus valencias. Clasificarlos en metales y no metales.
+b.- Desarrollar las fórmulas de todos los óxidos posibles para tales elementos y escribir los
+correspondientes nombres.
+PROBLEMA 3: Escribir las fórmulas de los siguientes óxidos:
+a.- Óxido ferroso
+b.- Monóxido de hierro.
+c.- Trióxido de dinitrógeno.
+d.- Óxido plúmbico.
+e.- Anhídrido perclórico.
+f.- Pentóxido de diyodo.
+g.- Óxido cobáltico.
+h.- Óxido mercúrico.
+i.- Anhídrido sulfuroso.
+j.- Anhídrido nítrico.
+PROBLEMA 4: Expresar simbólicamente:
+a.- Óxido de paladio (II)
+b.- Óxido de uranio (VI)
+c.- Óxido de azufre (VI)
+d.- Óxido de mercurio (I)
+e.- Óxido de nitrógeno (III)
+f.- Óxido de carbono (IV)
+PROBLEMA 5 (RESUELTO):
+I) Consigne las fórmulas de los siguientes compuestos, desarrollando reacciones de
+formación a partir de sustancias más sencillas:
+a) Anhídrido nítrico
+b) Óxido férrico
+
+7
+
+c) Hidróxido de aluminio
+d) Ácido sulfúrico
+e) Ácido sulfhídrico
+
+f) Carbonato de calcio
+g) Nitrato niquélico
+h) Cloruro plúmbico
+
+II) Exprese los nombres de los siguientes compuestos:
+a) Cl 2O5
+b) Cu2O
+c) Fe(OH)3
+d) HClO4
+e) Al(NO3)3
+f) CaBr2
+g) Na2HPO4
+h) NaH2PO4
+Respuestas:
+I)
+a) N2O5 (también: pentóxido de dinitrógeno)
+2 N2 + 5 O2 ⇔ 2 N2O5
+b) Fe2O3 [también: óxido de hierro (III)]
+4 Fe + 3 O2 ↔ 2 Fe2O3
+c) Al(OH)3 (también: trihidróxido de aluminio)
+Al2O3 + 3 H2O ↔ 2 Al(OH)3
+d) H2SO4 (también: tetraoxo sulfato de dihidrógeno)
+SO3 + H2O ↔ H2SO4
+e) H2S (también: sulfuro de hidrógeno)
+S + H2 ↔ H2S
+f) CaCO3
+Ca(OH)2 + H2CO3 ↔ CaCO3 + 2 H2O ó CaO + CO2 ⇔ CaCO3
+g) Ni(NO3)3 [también: nitrato de níquel (III)]
+Ni(OH)3 + 3 HNO3 ↔ Ni(NO3)3 + 3 H2O
+h) PbCl4 [también: cloruro de plomo (IV)]
+Pb(OH)4 + 4 HCl ↔ PbCl4 + 4 H2O
+ó
+Pb + 4 HCl ↔ PbCl4 + 2 H2O
+II)
+
+a) Pentóxido de dicloro ó anhídrido clórico u óxido de cloro (V)
+b) Monóxido de dicobre u óxido de cobre (I)
+c) Hidróxido férrico ó hidróxido de hierro (III)
+d) Ácido perclórico ó tetraoxoclorato de hidrógeno
+e) Nitrato de aluminio
+f) Bromuro de calcio
+g) Hidrógeno fosfato de sodio ó ortofosfato ácido de sodio
+h) Dihidrógeno fosfato de sodio u ortofosfato diácido de sodio
+
+(Nota: pueden haber otras formas de nombrar a estos compuestos, que no se consignan)
+
+PROBLEMA 6: Dar el nombre de los siguientes compuestos binarios:
+a.- HCl
+h.- SO3
+b.- NiO
+i.- P2O3
+c.- N2O3
+j.- CaCl2
+d.- Cl2O5
+k.- Sb2O3
+e.- CO2
+l.- H2S
+f.- LiH
+g.- Li2O
+PROBLEMA 7: Formular los hidróxidos de los siguientes elementos:
+a) K b) Ca
+c) Al d) Cu e) Ni
+f) Pb
+PROBLEMA 8: Completar las siguientes expresiones.
+a.- N2O5 + H2O →
+b.- CO2 + H2O →
+c.- Cl2O5 + H2O →
+d.- P2O5 + H2O →
+
+8
+
+e.-……. + ……….→ HNO3
+PROBLEMA 9: Teniendo en cuenta la reacción: ácido + hidróxido → sal + agua,
+completar las siguientes ecuaciones, escribiendo el nombre del compuesto faltante:
+a.- Ácido Clorhídrico + …………………… →cloruro de sodio + agua
+b.- Ácido bromhídrico + hidróxido férrico →………………. + agua
+c.- Ácido sulfúrico + hidróxido de calcio →…………….... + agua
+d.- Ácido hipocloroso + hidróxido de calcio→ …………… + agua
+e.- …………………… + hidróxido férrico → sulfito férrico + agua
+f.- …………………… + hidróxido de potasio →perclorato de potasio + agua
+g.- Ácido sulfuroso + ……………………….. →sulfito cúprico + agua
+PROBLEMA 10: Indicar de qué ácidos provienen las siguientes sales:
+a.- Cloruro de sodio
+b.- Sulfato de potasio
+c.- Nitrito de bario
+e.- Hipoclorito de sodio
+PROBLEMA 11: Dados los siguientes compuestos, escribir las fórmulas correspondientes
+y sus sinónimos.
+a.- Amoníaco
+b.- Anhídrido clórico
+c.- Anhídrido nítrico
+d.- Trióxido de azufre
+e.- Hidróxido cúprico
+f.- Óxido de Cobre
+g.- Pentóxido de difósforo
+h.- Fosfatina: PH3 (trihidruro de fósforo)
+PROBLEMA 12: Escribir el nombre de los siguientes compuestos:
+a.- HClO
+h.- Sn(OH)2
+b.- HClO2
+i.- Sn(OH)4
+c.- HClO3
+j.- Na2 SO4
+d.- HClO4
+k.- NaHSO4
+e.- HPO2
+l.- NaKSO4
+f.- H3PO3
+m.- Na2HPO4
+g.- H4P2O5
+n.- NaH2PO4
+PROBLEMA 13: Dados los siguientes compuestos por sus fórmulas, expresar sus nombres:
+a.- Co2O3
+j.- BiCl3
+b.- Cu2O
+k.- NiS
+c.- ZnO
+l.- MnS
+d.- PbO2
+m.- Ag2S
+e.- MoO3
+n.- CuNO3
+f.- Al2(SO4)3
+o.- KNO2
+g.- FeBr3
+p.- NaIO3
+h.- BaCl2
+q.- Sn(SO4)2
+i.- TiCl4
+PROBLEMA 14: Dar directamente los nombres de las siguientes sales:
+a.- KClO3
+b.- PbSO4
+c.- Pb(SO3)2
+d.- NH4NO2
+e.- Ca3(PO4)2
+
+9
+
+PROBLEMA 15: Nombrar los siguientes compuestos:
+a.- NH4NO3
+b.- Mg(ClO)2
+c.- FeSO4
+d.- Ba(PO3)2
+e.- HClO3
+PROBLEMA 16: (RESUELTO) Plantear las reacciones de formación de los diferentes
+ácidos del P (V) que se obtienen con sus distintos posibles grados de hidratación, a partir del
+anhídrido fosfórico; indicando el nombre.
+a) P2O5 + H2O ↔ 2 ΗPO3 (ácido metafosfórico)
+b) P2O5 + 2 H2O ↔ Η4P2O7 (ácido pirofosfórico)
+c) P2O5 + 3 H2O ↔ 2 Η3PO4 (ácido ortofosfórico)
+PROBLEMA 17: Nombrar los siguientes compuestos:
+a.- H3PO3
+b.- H2SiO3
+c.- HPO2
+d.- H6Si2O7
+e.- H3BO3
+f.- H4SiO4
+PROBLEMA 18: De las sales cuyas fórmulas se consignan a continuación:
+I. Descomponerlas en los ácidos e hidróxidos de los cuales provienen (hidrólisis)
+II. Dar el nombre de esos ácidos e hidróxidos.
+III. A partir de los nombres obtenidos en el punto II, deducir el nombre de la sal.
+Haceme una tabla con los siguientes encabezados para LaTeX
+Sal
+Hidróxido
+Ácido
+Nombre
+
+Estas son las sales:
+KNO3
+CaBr2
+FeCl3
+K2CO3
+SnCl4
+PbSO4
+PbS2
+NH4Cl
+NaHSO3
+PROBLEMA 19: Plantear las fórmulas y dar los nombres para todas las sales teóricamente
+posibles de obtener a partir de los siguientes ácidos y bases:
+a.- HCl
+Ácido cloroso
+Sn(OH)2
+Ácido perclórico
+Sn(OH)4
+
+b.- Ácido sulfúrico
+H2SO3
+Ácido sulfhídrico
+Ácido
+HCl
+HCl
+Ácido cloroso
+Ácido cloroso
+Ácido perclórico
+Ácido perclórico
+Ácido sulfúrico
+Ácido sulfúrico
+H2SO3
+H2SO4
+Ácido sulfhídrico
+Ácido sulfhídrico
+
+Hidróxido ferroso
+Hidróxido férrico
+Base
+Sn(OH)2
+Sn(OH)4
+Sn(OH)2
+Sn(OH)4
+Sn(OH)2
+Sn(OH)4
+Hidróxido ferroso
+Hidróxido férrico
+Hidróxido ferroso
+Hidróxido férrico
+Hidróxido ferroso
+Hidróxido férrico
+
+Fórmula Sal
+
+Nombre sal
+
+PROBLEMA 20: Balancear las siguientes reacciones químicas:
+a.- Ca + O2 ↔ CaO
+b.- Al + O2 ↔ Al2O3
+c.- K + O2 ↔ K2O
+d.- N2 + O2 ↔ N2O5
+e.- HCl + Al ↔ AlCl3 + H2
+f.- FeS + O2 ↔ Fe2O3 + SO2
+g.- H2SO4 + Al(OH)3 ↔ Al2(SO4)3 + H2O
+h.- I2 + HNO3 ↔ HIO3 + NO2 + H2O
+i.- C3H8 + O2 ↔ CO2 + H2O
+PROBLEMA 21: (RESUELTO) Balancear las siguientes expresiones a las que pueden
+aplicarse métodos particulares para lograrlo.
+a.- Cl2 + O2 ↔ Cl2O7
+b.- Fe(OH)3 + H2SO4 ↔ Fe2(SO4)3 + H2O
+c.- CaCl2 + Al2CO3 ↔ ΑlCl3 + CaCO3
+d.- C4H10 + O2 ↔ CO2 + H2O
+En cualquier caso (incluyendo los métodos generales), el criterio básico a aplicar es el
+cuidado de la Ley de Lavoisier referida a los elementos (número de átomos de cada uno
+de ellos igual en “reactivos y productos”).
+a.- xCl2 + yO2 ↔ Cl2O7
+Caso de compuestos binarios obtenidos a partir de las respectivas sustancias simples:
+“La relación estequiométrica básica para los reactivos, se obtiene de los subíndices de los
+elementos en el producto” En el caso: x = 2; y = 7, luego se define el coeficiente del
+producto directamente desde tales valores:
+2Cl2 + 7O2 ↔ 2 Cl2O7
+b.- xFe(OH)3 + yH2SO4 ↔ Fe2(SO4)3 + H2O
+
+11
+
+Se trata de la reacción de neutralización (“formación de sales”). Debe atenderse que en la
+neutralización, el número de OH- que interviene, se iguala con el número de H + en la
+formación de agua (tantas de OH- o H+ que participan).
+→ 3x = 2y → el menor par de números naturales que satisface, es: x = 2 ; y = 3
+2Fe(OH)3 + 3H2SO4 ↔ Fe2(SO4)3 + 6H2O (es claro que 6OH- + 6H+ → 6H2O)
+c.- xCaCl2 + yAl2(CO3)3 ↔ ΑlCl3 + CaCO3
+
+Conocida como “reacción de intercambio (de cationes)”, en la que los átomos metálicos
+(cationes) de una sal se intercambian con los de la otra.
+En este caso, considerar que los enlaces que aportan ambos metales en ambas sales deben
+estar igualados: (valencia Ca=2 ; valencia Al=3) → 2.x = 2.3.y → x = 3 y → x=3 ; y=1
+3CaCl2 + Al2(CO3)3 ↔ 2ΑlCl3 + 3CaCO3 (números de átomos de metales en reactivos,
+definen número de moléculas de los productos directamente)
+d.- C4H10 + zO2 ↔ xCO2 + yH2O
+Representa una reacción de combinación con oxígeno (oxidación), de todos los elementos
+de una sustancia dada. En el caso particular: combustión.
+Ver que de cada átomo de C, se obtiene un CO2; y de cada dos de H, una de H2O. → x =
+4 ; y = 10/2 = 5 ; luego z se obtiene del total de oxígeno en producto. z = 5 + 2.4 = 13/2
+→ z = 13/2 → C4H10 + 13/2O2 ↔ 4CO2 + 5H2O ó 2C4H10 + 13O2 ⇔ 8CO2 + 10H2O
+PROBLEMA 22: Determine los coeficientes estequiométricos para las siguientes
+reacciones:
+a.- C10H2O + O2 ↔ CO2 + H2O
+b.- Ácido pirofosfórico+ hidróxido de aluminio ↔ pirofosfato biácido de aluminio+ agua
+PROBLEMA 23 (RESUELTO):
+I) Balancear la expresión siguiente por el método algebraico:
+CO + H2O + Al2O3 ↔ H2CO3 + Al
+II) Calcular en qué relación de moles se producen H2CO3 y Al.
+III) Si reaccionan 153 g de Al2O3, calcular cuántos moles de H2CO3 se obtendrán.
+IV) Para la misma cantidad de óxido, ¿cuántos gramos de Al se producirán?
+V) Determinar que volumen de CO (gaseoso en CETP) ha intervenido en la reacción, para la
+cantidad indicada de Al2O3.
+
+Como ampliación de la Ley de conservación de la masa (Lavoisier), puede decirse que:
+los átomos no se crean ni se destruyen durante ninguna reacción química. Por ello, una
+ecuación química debe tener iguales cantidades de átomos de cada elemento a izquierda
+(habitualmente reactivos) y a derecha (habitualmente productos) Ello hace que, a través
+del número de átomos igualado para cada elemento entre reactivos y productos, se tenga
+una ecuación a cumplir.
+Los números que se anteponen a cada fórmula de sustancia se denominan coeficientes
+estequiométricos; y el número de átomos de cada elemento que tal sustancia aporta, se
+obtiene multiplicando su coeficiente por el subíndice propio del elemento (indica número
+de átomos de éste por unidad de fórmula)
+“Balancear una ecuación” consiste entonces en encontrar los valores de los coeficientes
+que satisfacen todas las ecuaciones planteadas de la forma indicada.
+Manteniendo las proporciones que los coeficientes estequiométricos establecen, se tienen
+las relaciones entre moles para reactivos y productos (equivale a multiplicar todos los
+12
+
+coeficientes por el número de Avogadro). Ej.: si 2 moléculas de H2 se combinan con una
+de O2, para dar 2 moléculas de agua: 2 moles de H2 se combinarán con uno de O2, para
+dar 2 moles de agua.
+Si se multiplican los moles por sus masas molares en cada caso, se obtendrán
+naturalmente las relaciones en masas, también para reactivos y productos. Además,
+pueden obtenerse relaciones en volumen, cuando se trata de gases, en los que para
+comportamiento ideal (gases suficientemente expandidos), el volumen por cada mol es
+de 22,414 l en CETP (Condiciones Estándar de Presión y Temperatura, esto significa:
+T= 273K (=0°C) y P = 1 atm).
+I) de la expresión: a CO + b H2O + c Al2O3 ↔ d H2CO3 + Al , deben calcularse: a, b, c, d y
+e, para ello se plantea una ecuación por cada elemento:
+C: a = d
+O: a + b + 3c = 3d
+H: 2b = 2d
+Al: 2c = e
+
+Hay una variable más que ecuaciones (es lo que habitualmente ocurre), en consecuencia,
+el sistema tendría infinitas soluciones que representan todas las mismas proporciones
+entre las especies reaccionantes. Se busca una, fijando arbitrariamente el valor de una
+variable. En este caso, se hará d = 1.
+dando a d el valor 1 resultan: d = 1 y de la ecuación de C a = l
+de la ecuación de H: 2b=2d → d = b = 1
+de la ecuac. de O: a + b + 3c = 3d → 1 + 1 + 3c = 3.1 → 3c = 3 – 2 → c = 1/3
+de la ecuación de Al: 2c = e → e = 2.1/3 → e = 2/3
+Es posible multiplicar todos los coeficientes por un mismo número, pues de tal manera se
+mantienen las proporciones. Se hará por 3, para eliminar las fracciones, resultando: a = 3, b
+= 3, c = 1, d = 3 y e = 2
+A la ecuación que así queda planteada se acompaña de las proporciones en moles, masas y
+volúmenes (éste en caso de ser un gas):
+3 CO(g) + 3 H2O + Al2O3 ↔
+3 H2CO3 + 2 Al
+3 mol
+3 mol
+1 mol
+3 mol
+2 mol
+84 g
+54 g
+102 g
+186 g
+54 g
+3x22,4 = 67,2 l
+II) De la relación al pie de la ecuación: 3 moles de H2CO3 por cada 2 moles de Al
+III) La relación es: moles H2CO3 / masa Al2O3 = 3 mol / 102g
+→ mol H2CO3 = (3 mol / 102 g ) / 153 g = 4,5 mol
+IV) masa Al / masa Al2O3
+
+=
+
+54g / 102g →
+masa Al = (54 g / 102 g) / 153 g = 81 g
+
+V) volumen CO / masa Al2O3 = 67,2 l / 102 g →
+volumen CO = (67,2 l / 102 g). 153 g = 100,8 l (litros)
+PROBLEMA 24: Balancear las siguientes expresiones por el método algebraico:
+a.- Fe(NO3)3 + CO + H2O ↔ Fe (NO2)3 + H2CO3
+
+13
+
+b.- Mg S
++ HNO3
+↔ H2SO3 + HNO2 + Mg(NO3)2
+c.- Al (NO3)3 + CaCO3 ↔ Ca (NO3)2
++ Al2(CO3)3
+d.- NaMnO4 + H2O + PbO ↔ Pb(OH)4 + MnO + Na(OH)
+
+PROBLEMA 25: Plantee las ecuaciones respectivas de las reacciones que se indican,
+balanceándolas por el método algebraico.
+a.- Anhídrido bórico + magnesio ↔ óxido de magnesio + boro
+b.- Óxido de aluminio + carbono + cloro ↔ cloruro de aluminio + monóxido decarbono
+c.- Óxido de aluminio + ácido sulfhídrico ↔ sulfuro de aluminio + agua
+d.- Óxido plumboso + sulfuro plumboso ↔ anhídrido sulfuroso + plomo
+e.- sulfuro arsenioso + oxígeno ↔ anhídrido sulfuroso + trióxido de diarsénico
+f.- Ortofosfato de calcio + anhídrido silícico + carbono ↔ metasilicato de calcio +
+monóxido de carbono + fósforo (P2)
+PROBLEMA 26. Dada la reacción:
+Mg3(PO4)2 + l2O3 + H2O
+↔ Mg(lO2)2 + H3PO4
+a) Balancear la expresión.
+b) Calcular la relación en masas entre el l2O3 y el Mg3(PO4)2 reaccionados en
+proporción estequiométrica.
+c) Determinar la relación en moles entre Mg(lO2)2 y H3PO4 obtenidos.
+PROBLEMA 27: El hierro reacciona con ácido clorhídrico, formando cloruro férrico y
+desprendiendo hidrógeno. Calcular las masas de hierro y ácido clorhídrico necesarias
+estequiométricamente, que permitan la obtención de 8 gramos de hidrógeno. Determinar la
+relación de número de moles de ácido clorhídrico a número de moles de cloruro férrico (nHCl/
+n FeCl3).
+PROBLEMA 28: El dióxido de manganeso y el ácido clorhídrico reaccionan para dar cloruro
+manganoso, cloro y agua. Calcular las masas de dióxidos de manganeso y ácido clorhídrico
+necesarias estequiométricamente para obtener 1420 gramos de cloro. ¿Cuál es la relación n
+MnO2/m HCl (relación número de moles/masa)?
+PROBLEMA 29: El ácido sulfúrico (H2SO4) y el hidróxido de aluminio Al(OH)3 reaccionan
+en una relación de 3 moles a 2 moles. Indique en cada caso si las cantidades señaladas guardan
+las proporciones estequiométricas. Expresar la relación de masas entre los reactivos y
+utilizarla para los cálculos.
+a.- 6,022 .1023 moléculas de H2SO4 + 3,011 .1023 moléculas de Al(OH)3
+b.- 20 g de H2SO4 + 15 g de Al(OH)3
+c.- 1,5 g de H2SO4 + 78,01 g de Al(OH)3
+PROBLEMA 30: En la obtención del fósforo, el anhídrido fosfórico es reducido por el
+carbón de acuerdo a la siguiente expresión no balanceada:
+P2O5 + C ↔ CO + P
+¿Cuántos moles de carbono serán necesarios para la obtención de 2,480 Kg. de fósforo?
+PROBLEMA 31: 2260,5 gramos de óxido estáñico reaccionan exactamente con 30 moles
+de carbono (C) para dar 0,84 kg de monóxido de carbono más cierta cantidad de una segunda
+sustancia. Determine cuál es esa sustancia y la cantidad que se produce de ella. Utilizar
+relación masa a número de moles.
+PROBLEMA 32: En la reacción de cierta cantidad de hidrógeno con nitrógeno se obtuvo
+6,8 gramos de amoníaco.
+
+14
+
+a.- ¿Cuántos moles de hidrógeno reaccionaron?
+b.- ¿Qué volumen, medido en CEPT, de nitrógeno fue consumido?
+PROBLEMA 33: Para la síntesis de óxido de sodio, se cuenta con 8,12 moles de sodio. Si
+la reacción prosigue hasta agotarse totalmente este reactivo, ¿qué cantidad de oxígeno se
+habrá consumido? Expresarla en:
+a.- moles
+b.- número de moléculas c.- gramos d.- litros medidos en CEPT
+PROBLEMA 34: De una muestra de 5 gramos que contiene aluminio, se obtuvieron 17,10
+gramos de sulfato de aluminio. ¿Qué porcentaje de aluminio contenía la muestra?
+PROBLEMA 35: De acuerdo a la reacción:
+Plomo +nitrato(V) de hidrógeno→ nitrato(V) de plomo(II) + óxido de nitrógeno(IV) + agua
+Se obtuvieron 29 gramos de sal de plomo a partir de una muestra de 40 gramos de de un
+material que contiene dicho metal.
+a.- Ajustar estequiométricamente la reacción
+b.- ¿Cuál es el contenido porcentual de plomo en la muestra?
+
+15
+
+UNIVERSIDAD NACIONAL DE MISIONES
+Facultad de Ciencias, Exactas, Químicas y
+Naturales
+
+Módulo: Química
+INGRESO 2023
+GUÍA TEÓRICA
+(Material de clases años anteriores para usar
+en caso de no disponer de bibliografía)
+ARTICULACIÓN NIVEL MEDIO
+UNIVERSIDAD NACIONAL DE MISIONES
+DEPARTAMENTO DE FISICOQUÍMICA: “Proyecto Principal Departamental”
+Integrantes proyecto:
+Dra. Kruyeniski, Julia
+Dr. Kramer, Gustavo Raúl
+Dr. Kociubczyk, Alex Iván
+Morinisi, Rodrigo (alumno avanzado carrera ingeniería química)
+Dra. Ramos, Silvina Gabriela
+Dra. Román, Alejandra Silvina
+
+Material de uso didáctico
+
+Índice
+Contenido
+Índice .............................................................................................................................................. 1
+Temas introductorios ..................................................................................................................... 4
+Materia ....................................................................................................................................... 4
+Sustancia pura ............................................................................................................................ 4
+Elementos químicos ................................................................................................................... 4
+Compuestos ............................................................................................................................... 5
+Átomos y Moléculas ................................................................................................................... 5
+Teoría atómica de Dalton ....................................................................................................... 5
+Partículas subatómicas fundamentales ..................................................................................... 6
+Número atómico (Z) ................................................................................................................... 7
+Número de masa o número másico (A) ..................................................................................... 7
+Isótopos ...................................................................................................................................... 7
+Masas Atómicas ......................................................................................................................... 8
+Mol y Número de Avogadro ....................................................................................................... 8
+Masa molar de un elemento ...................................................................................................... 9
+Masa fórmula ............................................................................................................................. 9
+La tabla periódica ..................................................................................................................... 10
+Algunas clasificaciones dentro de la tabla periódica: .............................................................. 13
+Gases nobles ........................................................................................................................ 13
+Elementos representativos .................................................................................................. 13
+Elementos de transición d.................................................................................................... 13
+Elementos de transición interna .......................................................................................... 13
+Diferencias entre los grupos A y B ....................................................................................... 14
+Metales, no metales y metaloides ....................................................................................... 14
+Comparación de propiedades entre metales y no metales: ................................................ 15
+Electronegatividad ................................................................................................................... 15
+Números cuánticos .................................................................................................................. 16
+1
+
+Configuración electrónica ........................................................................................................ 16
+Tabla periódica interactiva (sugerencia) .................................................................................. 18
+Tema Principal (1er bloque) ......................................................................................................... 19
+Metodología de formulación y nomenclatura química inorgánica.......................................... 19
+Número de oxidación ............................................................................................................... 20
+Valencia .................................................................................................................................... 20
+¿Por qué agrupamos en la primera parte a los compuestos binarios? ................................... 20
+Nomenclatura de compuestos Inorgánicos ............................................................................. 20
+Sustancias simples.................................................................................................................... 21
+Compuestos iónicos ................................................................................................................. 21
+HIDRURO METÁLICO ................................................................................................................ 22
+Hidruros volátiles o hidruros de no metales ............................................................................ 23
+Hidrácidos ................................................................................................................................ 23
+Óxidos....................................................................................................................................... 24
+Nomenclatura Stock para óxidos ............................................................................................. 25
+Peróxidos.................................................................................................................................. 25
+Tema Principal (2do bloque) ........................................................................................................ 27
+Hidróxido o base ...................................................................................................................... 28
+Amoníaco y amonio ................................................................................................................. 28
+Ácidos ....................................................................................................................................... 28
+Oxoácidos u Oxácidos .......................................................................................................... 29
+Tema Principal (3er bloque) ......................................................................................................... 31
+Sales ......................................................................................................................................... 32
+Sales neutras ........................................................................................................................ 33
+Sales binarias (Haloideas) .................................................................................................... 33
+Sales ácidas .......................................................................................................................... 34
+Sales oxisales básicas ........................................................................................................... 34
+Sales mixtas .......................................................................................................................... 35
+Ejemplos de formulación y nomenclatura de sales ............................................................. 36
+Ejemplos nomenclatura oxisales .......................................................................................... 37
+2
+
+Ejemplos nomenclatura sales básicas .................................................................................. 38
+Ejemplos nomenclatura sales mixtas ................................................................................... 38
+Tema Principal (4to bloque) ......................................................................................................... 39
+Ecuaciones químicas ................................................................................................................ 39
+Cálculos que se realizan a partir de ecuaciones químicas ....................................................... 40
+
+3
+
+Temas introductorios
+Materia
+La materia es todo lo que tiene masa y ocupa espacio. Usualmente la mayor parte de las
+formas en que la encontramos, por ejemplo, el aire que respiramos, el agua que bebemos, una
+pared o un automóvil, no son químicamente puras. Sin embargo, podríamos descomponer o
+separar estas formas de materia en distintas sustancias puras.
+
+Sustancia pura
+Una sustancia pura es materia que tiene unas propiedades definidas y una composición que
+no varía de una muestra a otra. Por ejemplo, el agua de mar está compuesta mayoritariamente de
+agua y sal (cloruro de sodio), las cuales son sustancias puras.
+
+Elementos químicos
+Elemento es el componente común de una sustancia simple. Es un tipo de materia que no
+puede subdividirse en dos o más sustancias puras y está compuesto por la misma clase de átomos
+y se lo designa con el mismo nombre que la sustancia simple correspondiente.
+
+En la actualidad existen 118 elementos conocidos, de los cuales 94 existen en la naturaleza.
+Muchos elementos nos resultaran familiares. Por ejemplo, el carbón es carbono casi puro, los
+cables eléctricos y las tuberías suelen estar hechos de cobre, el oro empleado en joyería. Otros
+elementos como el aluminio se usan en muchos utensilios domésticos.
+En química, un elemento se identifica por su símbolo. Este consiste en una o dos letras (en
+todos los casos es una escrita en mayúscula y la otra, si la hay, en minúscula), normalmente
+basadas en el nombre del elemento. Así, el símbolo para el carbono es C y para el oxígeno es O. A
+veces el símbolo proviene del nombre en latín del elemento o de uno de sus compuestos. Los
+elementos cobre y azufre, que se conocen desde la antigüedad, tienen los símbolos Cu (cuprum) y
+S (sulphur).
+
+4
+
+Compuestos
+Un compuesto es una sustancia pura que contiene más de un elemento. El agua es un
+compuesto formado por hidrógeno y oxígeno. El metano y acetileno, son compuestos que
+contienen carbono e hidrógeno en diferentes proporciones.
+
+Los compuestos poseen una composición fija. Es decir, un compuesto dado siempre contiene
+los mismos elementos con los mismos porcentajes en masa. Una muestra de agua pura contiene
+exactamente 11,9% de hidrógeno y 88,81% de oxígeno.
+Por el contrario, las mezclas pueden variar su composición. Las propiedades de los compuestos
+y de los elementos que contienen son muy diferentes. La sal común (cloruro de sodio) es un sólido
+blanco y poco reactivo. Contiene sodio y cloro. El sodio (Na) es un metal brillante y
+extremadamente reactivo. El cloro (Cl) es un gas venenoso amarillo-verdoso. Cuando estos dos
+elementos se combinan para formar cloruro de sodio, tiene lugar una profunda transformación.
+
+Átomos y Moléculas
+Aproximadamente en el 400 a.C., el filósofo griego Demócrito sugirió que toda la materia
+estaba formada por partículas minúsculas, discretas e indivisibles, a las cuales llamó átomos. Sus
+ideas fueron rechazadas durante 2000 años, pero a finales del siglo dieciocho comenzaron a ser
+aceptadas.
+Teoría atómica de Dalton
+En 1808, John Dalton, publicó las primeras ideas "modernas" acerca de la existencia y
+naturaleza de los átomos. Resumió y amplió los vagos conceptos de antiguos filósofos y científicos.
+Esas ideas forman la base de la teoría atómica de Dalton, que es de las más relevantes dentro del
+pensamiento científico. Los postulados de Dalton se pueden enunciar en la siguiente forma
+condensada:
+1. Un elemento está compuesto de partículas pequeñas e indivisibles llamadas átomos.
+2. Todos los átomos de un elemento dado tienen propiedades idénticas, las cuales difieren
+de las de átomos de otros elementos.
+3. Los átomos de un elemento no pueden crearse, destruirse o transformarse en átomos de
+otros elementos.
+5
+
+4. Los compuestos se forman cuando átomos de elementos diferentes se combinan entre sí
+en una proporción fija.
+5. Los números relativos y tipos de átomos son constantes en un compuesto dado.
+Dalton consideró que los átomos eran esferas sólidas e indivisibles, idea que en la actualidad se
+rechaza. En ese tiempo algunos de sus postulados no pudieron verificarse (o refutarse)
+experimentalmente, ya que se basaron en las limitadas observaciones experimentales de su
+época. Aun con sus limitaciones, los postulados de Dalton constituyen un marco de referencia que
+posteriormente los científicos pudieron modificar o ampliar. Por esta razón se considera a Dalton
+como el padre de la teoría atómica moderna.
+La partícula más pequeña de un elemento que mantiene su identidad química a través de
+todos los cambios químicos y físicos se llama ÁTOMO.
+Una MOLÉCULA es la partícula más pequeña de un compuesto o elemento que tiene
+existencia estable e independiente. (Ampliación: ver sustancias en la que no cabe la idea de
+molécula, caso NaCl). En casi todas las moléculas, dos o más átomos se unen entre sí formando
+unidades discretas muy pequeñas (partículas) que son eléctricamente neutras. (Ampliación: ver
+que ocurre en una “reacción nuclear”)
+Las moléculas que están constituidas por un solo átomo se denominan monoatómicas (ej: He),
+las que poseen dos biatómicas (ej O2) y en general si contienen dos o más átomos se denominan
+poliatómicas (ej O3, P4) Las moléculas de los compuestos están formadas por más de un tipo de
+átomos. Una molécula de agua consta de dos átomos de hidrógeno y uno de oxígeno (H2O).
+En resumen:
+•
+•
+
+ÁTOMO: la partícula más pequeña de un elemento que mantiene su identidad química a
+través de todos los cambios químicos y físicos.
+MOLÉCULA: es la partícula más pequeña de un compuesto o elemento que tiene
+existencia estable e independiente.
+
+Los átomos son los componentes de las moléculas, y estas a su vez son los componentes de la
+mayoría de las sustancias simples y compuestos.
+
+Partículas subatómicas fundamentales
+
+Partícula
+
+Símbolo
+
+Ubicación
+
+Carga eléctrica
+relativa
+
+Masa
+(uma)
+
+Electrón
+
+e-
+
+En el espacio que
+rodea el núcleo
+
+-1
+
+1/1840
+
+9,11x10
+
+Protón
+
+p+
+
+En el núcleo
+
++1
+
+1,007
+
+1,673x10
+
+Neutrón
+
+n
+
+En el núcleo
+
+0
+
+1,008
+
+1,675x10
+
+0
+
+Masa (gramos)
+-28
+-24
+-24
+
+6
+
+Número atómico (Z)
+El número atómico (Z) es el número de protones en el núcleo de cada átomo de un elemento.
+Este es característico de cada elemento.
+En un átomo neutro, el número de protones es igual al número de electrones, por lo que en
+estos, el número atómico también indica el número de electrones presentes. La identidad química
+de un átomo se puede determinar a partir de su número atómico. Ej: el número atómico del N es
+7; esto significa que cada átomo neutro de nitrógeno tiene 7 protones y 7 electrones. O cada
+átomo en el universo que contenga 7 protones se llama correctamente "nitrógeno".
+
+Número de masa o número másico (A)
+El número másico (A) es el número total de protones y neutrones presentes en el núcleo de
+un átomo de un elemento. A excepción del hidrógeno en su forma más común, que tiene un
+protón y ningún neutrón, todos los núcleos atómicos contienen ambos, protones y neutrones.
+En general, el número de masa está dado por:
+Nºde masa (A) = Nº de protones + Nº de neutrones
+= Nº atómico (Z) + Nº de neutrones
+El número de neutrones en un átomo es igual a la diferencia entre el número másico y el
+número atómico, o (A - Z). Por ejemplo, el número másico del flúor es 19 y su número atómico es
+9 (lo cual indica que tiene 9 protones en el núcleo). En consecuencia, el número de neutrones en
+un átomo de flúor es 19 - 9 = 10. Nótese que las tres cantidades (número atómico, número de
+neutrones y número de masa) deben ser enteros positivos.
+
+Isótopos
+En la naturaleza se verifica que no todos los átomos de un elemento dado tienen la misma
+masa. Por ejemplo, existen tres tipos de átomos de hidrógeno, que difieren entre sí sólo en su
+número de neutrones: el denominado Protio (o hidrogeno), con un protón y sin neutrones;
+Deuterio, con un protón y un neutrón, y el Tritio, con un protón y dos neutrones.
+Los átomos que tienen el mismo número atómico pero diferentes números de masa se llaman
+isótopos.
+La forma aceptada para representar el número atómico y el número másico de un átomo de un
+elemento X es la que sigue:
+
+(𝑁ú𝑚𝑒𝑟𝑜 𝑀á𝑠𝑖𝑐𝑜)
+(𝑁ú𝑚𝑒𝑟𝑜 𝐴𝑡ó𝑚𝑖𝑐𝑜)
+
+𝐴
+𝑍𝑋
+
+Para los isótopos de hidrógeno sería:
+
+Hidrogeno: 1
+1H
+
+7
+
+Deuterio:
+
+2
+1𝐻
+
+Tritio:
+
+3
+1𝐻
+
+Como otro ejemplo, se pueden considerar dos isótopos comunes de uranio con números de
+masa de 235 y 238, respectivamente:
+
+Uranio 235:
+
+235
+92𝑈
+
+Uranio 238:
+
+238
+92𝑈
+
+A excepción del hidrógeno, los isótopos de los elementos se identifican por su número de
+masa. Así, los isótopos anteriores se llaman uranio 235 y uranio 238.
+Las propiedades químicas de un elemento están determinadas principalmente por los
+protones y electrones de sus átomos; los neutrones no participan en los cambios químicos en
+condiciones normales. En consecuencia, los isótopos del mismo elemento tienen el mismo
+comportamiento químico: forman el mismo tipo de compuestos y presentan reactividad similar.
+
+Masas Atómicas
+No es posible pesar un solo átomo, pero existen métodos experimentales para determinar la
+masa de un átomo en relación con la de otro. El primer paso consiste en asignar un valor a la masa
+de un átomo de un elemento dado, de tal forma que pueda ser utilizado como patrón. Por
+acuerdo internacional, un átomo del isótopo de carbono que tiene seis protones y seis neutrones
+(llamado carbono 12) presenta una masa exactamente de 12 unidades de masa atómica (uma).
+Este átomo de carbono 12 sirve como patrón, de modo que una unidad de masa atómica (uma) se
+define como una masa exactamente igual a la doceava (1/12) parte de la masa de un átomo de
+carbono 12.
+Masa de un átomo de carbono 12 = 12 uma
+1 𝑢𝑚𝑎 =
+
+𝑚𝑎𝑠𝑎 𝑑𝑒 𝑢𝑛 á𝑡𝑜𝑚𝑜 𝑑𝑒 𝑐𝑎𝑟𝑏𝑜𝑛𝑜
+12
+
+En experimentos se ha demostrado que, en promedio, un átomo de hidrógeno tiene sólo 8,400
+% de la masa del átomo patrón de carbono 12. Si se acepta que la masa de un átomo de carbono
+12 es exactamente 12 uma, entonces la masa atómica (esto es, la masa del átomo en unidades de
+masa atómica) del hidrógeno debe ser 0,08400 x 12 = 1,008 uma. Cálculos similares demuestran
+que la masa atómica del oxígeno es de 16,00 uma y que la del hierro es de 55,85 uma.
+
+Mol y Número de Avogadro
+Se ha visto que las unidades de masa atómica constituyen una escala relativa de las masas de
+los elementos. Pero dado que los átomos tienen masas tan pequeñas, no es posible diseñar
+balanza práctica alguna que pueda pesarlos usando unidades calibradas de masa atómica. En
+cualquier situación real (por ejemplo en un laboratorio) se manejan muestras de sustancias que
+8
+
+contienen una enorme cantidad de átomos. En consecuencia, resulta conveniente contar con una
+unidad especial para describir una gran cantidad de átomos.
+El mol, cuyo símbolo es mol, es la unidad de cantidad de sustancia del SI (Sistema Internacional
+de Unidades) que se define como la cantidad de sustancia de un sistema que contiene
+6,02214076.1023 entidades elementales (como ser átomos, moléculas, iones, electrones,
+cualquier otra partícula o un grupo especificado de tales partículas)
+A este número (6,02214076.1023) se lo llama número de Avogadro en honor al científico
+italiano Amadeo Avogadro (1776-1856), y se lo simboliza como NA.
+
+Masa molar de un elemento
+1 mol de átomos de carbono 12 contiene 6,022 X 1023 átomos, y tiene una masa exactamente
+de 12 g. Esta cantidad de masa se llama masa molar del carbono 12 y es la masa (en gramos o kg)
+de 1 mol de unidades (como átomos o moléculas) de la sustancia.
+Dado que cada átomo de carbono 12 tiene masa exactamente de 12 uma, es útil observar que
+la masa molar de un elemento (en gramos) es numéricamente igual a su masa atómica expresada
+en uma. Dicho en otras palabras, la masa en gramos de un mol de átomos de un elemento puro es
+numéricamente igual al peso atómico en uma de dicho elemento.
+Así, la masa atómica del sodio (Na) es de 22,99 uma y su masa molar es de 22,99 g. Si se sabe la
+masa atómica de un elemento, también se sabe su masa molar.
+De acuerdo con su definición, la unidad mol se refiere a un número fijo de "entidades" cuya
+identidad se debe especificar.
+Por ejemplo, el helio existe en forma de átomos de He discretos, por tanto, un mol de helio
+consta de 6,022 x 1023 átomos de He. El hidrógeno, en general, se encuentra en forma de
+moléculas biatómicas (dos átomos); por tanto, un mol de hidrógeno posee 6,022 x 1023 moléculas
+de H2 y 2(6,022 x 1023) átomos de H.
+Cualquier tipo de átomo, molécula o ión tiene una masa característica y definida, por lo que se
+deduce que un mol de una sustancia pura dada también tiene masa definida, sin importar el
+origen de la muestra.
+
+Masa fórmula
+La masa fórmula (MF) de una sustancia es la suma de las masas atómicas (MA) de los
+elementos de las fórmulas, multiplicados cada uno por el número de veces en que está presente el
+elemento. Es la masa en unidades de masa atómica(uma), de una formula unitaria. También se le
+denomina Masa molecular.
+
+9
+
+Por ejemplo para l Ácido sulfúrico (H2SO4):
+
+Elemento
+
+Masa de un átomo
+
+N° de átomos
+
+Total por elemento
+
+H
+
+1,01 uma
+
+2
+
+2 . 1,01 uma = 2,02 uma
+
+S
+
+32,06 uma
+
+1
+
+1 . 32,06 uma = 32,06 uma
+
+O
+
+15,99 uma
+
+4
+
+4 . 15,99 uma= 63,96 uma
+
+Masa de la fórmula de ácido sulfúrico
+
+98,04 uma
+
+De la misma manera, un mol de ácido sulfúrico posee una masa de 98,04 g.
+Por ejemplo un mol de carbonato de amonio, (NH4)2CO3, tiene una masa de 96,086 g, siendo su
+masa molecular de 96,086 uma.
+
+La tabla periódica
+En 1869, el químico ruso Dimitri Mendeléyev y el químico alemán, Lothar Meyer, publicaron en
+forma independiente ordenamientos de los elementos conocidos, que son muy similares a la tabla
+periódica que se usa en la actualidad. La clasificación de Mendeléyev se basó principalmente en las
+propiedades químicas de los elementos, mientras que la de Meyer se basó principalmente en
+propiedades físicas. Las tabulaciones fueron sorpresivamente similares.
+Ambos indicaron la periodicidad o repetición periódica regular de propiedades al incrementar
+el peso atómico.
+Mendeléyev ordenó los elementos conocidos según el aumento de peso atómico en secuencias
+sucesivas, de manera que los elementos con propiedades químicas similares quedasen en la
+misma columna. Observó que tanto las propiedades físicas como químicas de los elementos varían
+en forma periódica según el peso atómico. Su tabla periódica de 1872 contenía los 62 elementos
+conocidos en esa época.
+Uno de los éxitos más significativos de la tabla periódica de Mendeléyev fue que tuvo en
+cuenta elementos desconocidos al construirla. Cuando el científico rus consideraba que "faltaba"
+algún elemento, dejaba el espacio en blanco.
+Debido a que el ordenamiento de Mendeléyev de los elementos se basó en el incremento de
+pesos atómicos, aparentemente varios elementos quedaron fuera de lugar en su tabla. Por esto
+colocó a los elementos controvertidos (Te e I, Co y Ni) en lugares que correspondían a sus
+propiedades. Pensó que la aparente inversión de pesos atómicos se debía a valores inexactos de
+los mismos. Una redeterminación cuidadosa, demostró que los valores eran correctos. La
+resolución del problema de los elementos "fuera de sitio" tuvo que aguardar al desarrollo del
+concepto de número atómico. Entonces pudo formularse la ley periódica prácticamente en la
+forma que se conoce en la actualidad:
+“Las propiedades de los elementos son funciones periódicas de sus números atómicos”.
+10
+
+La ley periódica indica que si se ordenan los elementos conforme aumenta su número atómico,
+se encuentran en forma periódica elementos con propiedades físicas y químicas similares. Las
+tablas periódicas que se emplean en la actualidad son ordenamientos de este tipo.
+Las columnas verticales se conocen como grupos o familias y las líneas horizontales como
+periodos.
+Los elementos de un grupo tienen propiedades químicas y físicas similares, y los que se
+encuentran dentro de un periodo tienen propiedades que cambian en forma progresiva a través
+de la tabla.
+Los diversos grupos de elementos tienen nombres comunes que se emplean con tal frecuencia
+que es conveniente memorizarlos. Los elementos del grupo IA (1), con excepción del H, se
+conocen como metales alcalinos, y los elementos del grupo IIA (2) se llaman tierras alcalinas o
+metales alcalinotérreos. Los elementos del grupo VIIA (17) se llaman halógenos que significa
+"formadores de sales", y los elementos del grupo VIIIA (18) se llaman gases nobles (o raros).
+
+11
+
+12
+
+Algunas clasificaciones dentro de la tabla periódica:
+Gases nobles
+Durante muchos años, los elementos del grupo VIIIA (18) se conocieron como gases inertes,
+porque se creía que no participaban en reacciones químicas. En la actualidad se sabe que los
+miembros más pesados forman compuestos, en su mayoría con flúor y oxígeno. Con excepción del
+helio estos elementos tienen ocho electrones en el nivel de energía superior ocupado. Sus
+estructuras pueden representarse como . . . ns2np6.
+Elementos representativos
+Los elementos del grupo A de la tabla periódica se llaman elementos representativos. Sus
+niveles de energía más altos están parcialmente ocupados. Su "último" electrón entra en un
+orbital s o p. Estos elementos muestran variaciones diferentes y bastante regulares de sus
+propiedades con su número atómico.
+Elementos de transición d
+Los elementos del grupo B (con excepción del IIB) de la tabla periódica se conocen como
+elementos de transición d o en forma más sencilla, elementos de transición o metales de
+transición. Se consideraban como transiciones entre los elementos alcalinos (que forman bases)
+de la izquierda y los que forman ácidos en la derecha. Todos ellos son metales y se caracterizan
+porque tienen electrones en los orbitales d. Dicho de otro modo, los elementos de transición d
+contienen un nivel de energía interno que aumenta de 8 a 18 electrones (es el siguiente al más
+alto ocupado). Se conocen como:
+Primera serie de transición: 21Sc a 29Cu
+Segunda serie de transición: 39Y a 47Ag
+Tercera serie de transición: .57La y 72Hf a 79Au
+Cuarta serie de transición: (está incompleta) 89Ac y elementos del 104 al 111
+De manera estricta, los elementos del grupo IIB (zinc, cadmio y mercurio) no son metales de
+transición d porque sus "últimos" electrones penetran a orbitales s. Suelen estudiarse junto con
+los metales de transición d porque sus propiedades químicas son similares.
+Elementos de transición interna
+Estos elementos se conocen en ocasiones como elementos de transición f. Son elementos en
+los que se añaden electrones en los orbitales f. En ellos, el segundo nivel con respecto al nivel de
+energía más alto ocupado aumenta desde 18 hasta 32 electrones. Todos son metales. Los
+elementos de transición interna se localizan entre los grupos IIIB y IVB de la tabla periódica. Son:
+Primera serie de transición interna (lantánidos): 58Ce a 71Lu
+Segunda serie de transición interna (actínidos): 90Th a 103Lr
+13
+
+Diferencias entre los grupos A y B
+Los grupos de elementos de la tabla periódica se designaron como A y B de manera arbitraria, y
+en algunas tablas se encuentran invertidos. Otras designan a los grupos numerándolos del 1 al 18.
+Los elementos que se encuentran dentro del grupo del mismo número pero con letra distinta
+tienen relativamente pocas propiedades similares. El origen de la designación A y B es que algunos
+compuestos de elementos con el mismo número de grupo tienen fórmulas similares aunque
+propiedades muy diferentes; por ejemplo, NaCl (IA) y AgCl (IB); MgCl2 (IIA) y ZnCl2 (IIB). Como se
+verá, las variaciones de las propiedades de los grupos B a lo largo de una línea no son tan notables
+como las variaciones que se observan a lo largo de una línea de elementos del grupo A (al avanzar
+en un período se agregan electrones en orbitales “s” y “p”, externos). En los grupos B se añaden
+electrones a los orbitales “d” (dado el orden de llenado, siempre “internos). Los electrones más
+externos tienen mayor influencia sobre las propiedades de los elementos. Al añadir un electrón a
+un orbital interno d se producen cambios menos notables en las propiedades que al añadir un
+electrón a un orbital s o p externo.
+Metales, no metales y metaloides
+Al principio se clasificaron los elementos de diversas maneras, basándose en sus posiciones en
+la tabla periódica. En otro esquema de clasificación, los elementos suelen dividirse en tres clases:
+metales, no metales y metaloides.
+Los elementos a la izquierda de los que tocan a la línea es zig-zag son metales (con excepción
+del hidrógeno), mientras que los que se encuentran a la derecha son no metales. Esta clasificación
+es algo arbitraria y hay varios elementos que no se adaptan bien a cualquiera de estas clases.
+Los elementos adyacentes a la línea marcada suelen llamarse metaloides (o semimetales)
+porque muestran algunas propiedades características tanto de los metales como de los nometales.
+
+14
+
+Comparación de propiedades entre metales y no metales:
+Metales
+
+No metales
+
+La elevada conductividad eléctrica disminuye al
+aumentar la temperatura
+
+Mala conductividad eléctrica (excepto el
+carbono en forma de grafito)
+
+Alta conductividad térmica
+
+Buenos aislantes térmicos (excepto, el
+carbono en forma de diamante)
+
+Gris metálico o brillo plateado (excepto cobre y oro)
+
+Sin brillo metálico
+
+Casi todos son sólidos (excepto mercurio, cesio y galio
+se funden en la mano con protección)
+
+Sólidos, líquidos o gases
+
+Maleables (pueden laminarse para formar placas)
+
+Quebradizos en estado sólido
+
+Dúctiles (se pueden formar alambres con ellos)
+
+No dúctiles
+
+El estado sólido se caracteriza por enlace metálico
+
+Moléculas con enlace covalente, los gases
+nobles son monoatómicos
+
+Las capas externas contienen pocos electrones; por lo Las capas externas contienen cuatro o más
+general 3 o menos
+electrones (excepto el hidrógeno).
+Energías de ionización bajas
+
+Energías de ionización altas.
+
+Afinidades electrónicas ligeramente negativas o
+positivas
+
+Afinidades electrónicas muy negativas.
+
+Electronegatividades bajas
+
+Electronegatividades altas.
+
+Forman cationes perdiendo electrones
+
+Forman aniones ganando electrones.
+
+Forman compuestos iónicos con los no metales
+
+Forman compuestos iónicos con metales
+(excepto los gases nobles) y compuestos
+moleculares (covalentes) con otros no
+metales.
+
+Electronegatividad
+La electronegatividad de un elemento mide la tendencia relativa del átomo a atraer los
+electrones hacia sí, cuando se combina químicamente con otro átomo.
+Las electronegatividades de los elementos se expresan en una escala algo arbitraria llamada
+escala de Pauling. La electronegatividad del flúor (4.0) es la más alta de todos los elementos. El
+oxígeno es el segundo elemento más electronegativo.
+
+15
+
+Para los elementos representativos, las electronegatividades suelen aumentar de izquierda a
+derecha a lo largo de los periodos y de abajo hacia arriba dentro de los grupos.
+La escala de electronegatividad puede emplearse para predecir el tipo de enlace que permitirá la
+unión de dos átomos entre sí, con bastante exactitud. Los elementos con grandes diferencias de
+electronegatividad tienden a reaccionar entre sí para formar compuestos iónicos. El elemento
+menos electronegativo cede su electrón (o electrones) al elemento más electronegativo. Los
+elementos con diferencias pequeñas de electronegatividad tienden a formar enlaces covalentes
+entre sí, es decir, comparten sus electrones. En este proceso el elemento más electronegativo
+atrae más a los electrones.
+
+Números cuánticos
+Cada electrón se caracteriza en un átomo a través de cuatro números cuánticos, no pudiendo
+haber dos con todos ellos iguales (principio de exclusión).
+Los números cuánticos son: n: principal (define el nivel), l: azimutal (define el subnivel), m:
+magnético y ms: spin.
+Los niveles (n) se denominan con los números 1, 2, 3, 4, 5, 6 y 7.
+Los subniveles con las letras s, p, d, f, (equivalentes a decir 0, 1, 2 y 3 respectivamente; de 0 a
+(n-1)).
+El magnético define la orientación, varía entre (-l)
+
+pasando por cero hasta (l).
+
+El spin define el sentido de giro del electrón alrededor
+de su propio eje, puede ser (1/2) o
+(-1/2), en sentido
+de las agujas del reloj u opuesto respectivamente.
+
+Configuración electrónica
+La configuración electrónica “simplificada” consiste en dar el detalle de electrones que posee
+el átomo de un elemento consignando nivel, subnivel y número de electrones como supraíndice
+de este último (respetando el orden en que se van completando subniveles).
+Ejemplificando: el átomo de Cl tiene Z = 17; 17 e-, resultando su configuración electrónica: 1s2
+2s2 2p6 3s2 3p5. La mejor manera de determinar el orden de llenado por subniveles, lo constituye la
+tabla periódica: las dos primeras columnas (grupos) representan la zona de llenado de los
+sucesivos subniveles s, indicando el nivel la fila o período a que corresponde.
+
+16
+
+Las seis últimas columnas (grupos) corresponden al llenado de los subniveles p, el nivel se
+obtiene del período al igual que para los s. Las 10 columnas al medio de la tabla corresponden al
+llenado de los subniveles d comenzando por el 3d y las series de 14 que habitualmente se
+adicionan al pie de la tabla, corresponden al llenado de los orbitales f, comenzando por el 4f.
+Los orbitales se van llenando en el orden en que aparecen, siguiendo las diagonales de la
+siguiente imagen, empezando siempre por el 1s.
+
+Cuadro de las diagonales, mecanismo para distribuir electrones en sus diferentes niveles de energía.
+
+El grafico anterior suele estar en la parte posterior de las tablas periódicas, (muy útil para
+ejercicios prácticos).
+Como hemos visto, la Tabla Periódica consiste en un ordenamiento natural de los elementos
+según números atómicos crecientes. Como las propiedades de los elementos son función
+periódica de tales números, se van agrupando a la vez en grupos de elementos análogos (en
+general dados por las columnas). Estas analogías surgen precisamente de las similitudes de las
+configuraciones electrónicas de los últimos niveles.
+
+17
+
+Tabla periódica interactiva (sugerencia)
+http://www.ptable.com/?lang=es
+http://elements.wlonk.com/ElementsTable.htm
+Allí pueden ver clasificación, propiedades de los elementos, estado de los elementos según
+temperatura, configuración electrónica simplificada y desarrollada e isótopos. (Según la pestaña
+que elijan).
+
+18
+
+Tema Principal (1er bloque)
+La primera parte se enfocará en los compuestos binarios (es decir, formados por dos
+elementos), como ser óxidos básicos y óxidos ácidos e hidruros metálicos y no metálicos
+(hidrácidos).
+
+Metodología de formulación y nomenclatura química inorgánica
+En la siguiente imagen se resumen las combinaciones de los elementos y compuestos que dan
+como resultado las funciones químicas que se verán durante el desarrollo de este bloque.
+
+19
+
+Número de oxidación
+Se define como la carga asignada a cada átomo del elemento en cuestión en un compuesto,
+considerando que todas las uniones químicas en él son iónicas. Esto da lugar a la aparición de
+valores positivos o negativos para los números de oxidación.
+
+Valencia
+La valencia o número de valencia, es una medida de la cantidad de enlaces químicos formados
+por los átomos de un elemento químico en un compuesto particular Es un número absoluto, sin
+ningún signo asociado a él. Se define también como Poder de combinación.
+
+¿Por qué agrupamos en la primera parte a los compuestos binarios?
+Se tratan de compuestos formados por dos elementos, en el caso de los hidruros es:
+HIDRURO = H + Metal / No Metal
+Y en el caso de los óxidos es:
+ÓXIDO = O + Metal / No Metal
+La ventaja de los compuestos binarios es que para formularlos se realiza un intercambio de
+valencias. Ejemplo:
+
+Es decir, la valencia del H (I) va como subíndice del calcio (si el valor es I no es necesario
+escribirla) y la del Ca (II) va como subíndice del H, dando CaH2 (hidruro de calcio).
+
+Nomenclatura de compuestos Inorgánicos1
+Existen tres tipos de nomenclatura:
+1. Nomenclatura tradicional o clásica
+2. Nomenclatura sistemática o estequiométrica. Este sistema de nomenclatura se basa en
+nombrar a las sustancias usando prefijos numéricos griegos2 que indican la atomicidad de
+cada uno de los elementos presentes en la molécula. La atomicidad indica el número de
+átomos de un mismo elemento en una molécula, como por ejemplo H2O que significa que
+hay un átomo de oxígeno y dos átomos de hidrógeno presentes en la molécula. La forma
+de nombrar los compuestos es: prefijo-nombre genérico + prefijo-nombre específico
+3. Nomenclatura Stock
+
+1
+
+Los compuestos orgánicos contienen carbono, comúnmente en combinación con elementos como hidrógeno,
+oxígeno, nitrógeno y azufre. El resto de los compuestos se clasifican como compuestos inorgánicos.
+
+20
+
+Atomicidad
+
+1
+2 3
+4
+5
+6
+7
+8
+9
+10
+mono- di- tri- tetra- penta- hexa- hepta- octa- nano- (o enéa-) deca-
+
+Sustancias simples
+Las sustancias simples son moléculas formadas por átomos de un mismo elemento. Algunos
+elementos, cuando se encuentran en estado gaseoso, se presentan como moléculas diatómicas.
+Los más frecuentes son:
+H2 (dihidrógeno, hidrógeno gas o hidrógeno molecular),
+O2 (dioxígeno, oxígeno gas u oxígeno molecular),
+N2 (dinitrógeno, nitrógeno gas o nitrógeno molecular),
+F2 (diflúor, flúor gas o flúor molecular),
+Cl2 (dicloro, cloro gas o cloro molecular),
+Br2 (dibromo, bromo gas o bromo molecular),
+I2 (diyodo, yodo gas o yodo molecular).
+El oxígeno se puede presentar también en forma de molécula triatómica O3 (trioxígeno u
+ozono).
+Los gases nobles son siempre monoatómicos.
+Otros elementos pueden formar agrupaciones constituidas por más de dos átomos. Las más
+conocidas son las de azufre, que se representan por Sx (poliazufre), y el P4 fósforo blanco o
+tetrafósforo.
+Por último, muchos elementos forman mallas de gran número de átomos. Es el caso de los
+metales y otras sustancias simples como el grafito y el diamante (dos formas del carbono). En este
+caso, se representan simplemente por el símbolo del elemento.
+
+Compuestos iónicos
+Los iones son átomos cargados eléctricamente. Los metales suelen perder electrones formando
+iones con carga positiva denominados cationes. Los no metales, en cambio, suelen captar
+electrones formando iones negativos conocidos como aniones.
+
+21
+
+HIDRURO METÁLICO
+Combinaciones binarias del hidrógeno, que actúa con número de oxidación -1, y un metal.
+
+METAL + HIDROGENO → HIDRURO METÁLICO
+Con metales del grupo IA y IIA, exceptuando con el magnesio y berilio
+Algunos ejemplos son:
+
+NaH hidruro de sodio
+CaH2 hidruro de calcio
+
+Nótese que la valencia con que actúa el H en los hidruros, es la única que posee, es decir 1. A
+su momento se verá sin embargo, que tiene comportamientos variables según el elemento con
+que se asocie. Esto se entenderá más claramente cuando se analice “óxido reducción”: si el H se
+combina con un átomo de “mayor capacidad de captura de electrones”, se dirá que su “número de
+oxidación es +1” y; al combinarse con un átomo de “menor capacidad de captura de electrones”,
+se dirá que “su número de oxidación es – 1” como es el caso de los hidruros metálicos.
+
+22
+
+Hidruros volátiles o hidruros de no metales
+Combinaciones binarias del hidrógeno con N, P, As, Sb, C, Si y B.
+
+Hidrácidos
+Son combinaciones binarias del hidrógeno con los elementos Flúor (F), Cloro (Cl), Bromo (Br),
+Iodo (I), Azufre (S), Selenio (Se) y Telurio (Te). En disolución acuosa (en agua) se comportan como
+ácidos.
+HIDRÓGENO + X → HIDRÁCIDOS
+*Donde X puede ser flúor (F), cloro (Cl), bromo (Br), iodo (I), azufre (S), selenio (Se) y telurio (Te).
+
+Para formar este tipo de ácido los halógenos (Cl, Br, I y F) actúan con su menor valencia, es
+decir I (uno). Para el caso del S, Se y Te también actúa con su menor valencia, siendo II (dos) para
+estos elementos.
+
+23
+
+Óxidos
+Son combinaciones binarias del oxígeno, con número de oxidación -2, y otro elemento.
+
+Aclaraciones cuadro anterior:
+(1) A la derecha debe ponerse el elemento más electronegativo. Salvo cuando se combina con
+el flúor, el oxígeno es siempre el elemento más electronegativo. El OF2 no es un óxido, sino el
+fluoruro de O.
+(2) Si n es par, se deben simplificar los subíndices.
+(3) En la nomenclatura tradicional a los óxidos de los no metales se les denominaba anhídridos,
+sin embargo ahora tiende a adoptarse para todos, los de los metales y los de los no metales, el
+nombre de óxido.
+
+24
+
+(4) Los números de la derecha indican el número de valencias diferentes con las que pueda
+actuar X y los prefijos y sufijos que se utilizarán en cada caso de menor (arriba) a mayor (abajo)
+valencia.
+(5) Simplificado.
+(6) Se prescinde del segundo prefijo mono- (se dice monóxido de calcio y no monóxido de
+monocalcio).
+
+Nomenclatura Stock para óxidos
+Se basa en nombrar a los compuestos escribiendo al final del nombre con números romanos la
+valencia del elemento encerrado entre paréntesis. Si un elemento actúa con su única valencia se
+prescinde de poner este número.
+Nombre genérico + de + nombre del elemento + el Nº de valencia entre paréntesis en
+números romanos
+Ejemplos:
+
+Nomenclaturas
+Stock
+Sistemática
+óxido de potasio
+monóxido de dipotasio
+
+Fórmula
+K2O
+
+Clásica
+óxido de potasio
+
+Al2O3
+FeO
+Fe2O3
+
+óxido de aluminio óxido de aluminio(III) trióxido de dialuminio
+óxido ferroso
+óxido de hierro(II)
+monóxido de hierro
+óxido férrico
+óxido de hierro(III)
+trióxido de dihierro
+
+Cu2O
+CuO
+
+óxido cuproso
+óxido cúprico
+
+óxido de cobre(I)
+óxido de cobre(II)
+
+monóxido de dicobre
+monóxido de cobre
+
+Peróxidos
+Son combinaciones binarias del oxígeno con ciertos metales. Son derivados de los óxidos que
+contienen el agrupamiento -O–O- (peroxo). Como los dos oxígenos comparten una pareja de
+electrones, número de oxidación del oxígeno es -1, pero se presenta siempre en forma de dímero:
+O2 -2.
+
+25
+
+Aclaraciones del cuadro anterior:
+(1) Si n es par, el subíndice 2 de Me y el subíndice n deben simplificarse; sin embargo nunca hay
+que simplificar el subíndice 2 del oxígeno.
+(2) El paréntesis se ha puesto en la fórmula general para separar los dos subíndices. Si n es 1 el
+paréntesis es innecesario y si es 2, estará simplificado con el subíndice 2 del Me y tampoco será
+necesario.
+(3) En la nomenclatura tradicional es el único nombre aceptado para el H2O2.
+
+26
+
+Tema Principal (2do bloque)
+En esta segunda etapa se verán la formulación y nomenclatura de los compuestos ternarios (es
+decir, formados por tres elementos), como ser ácidos oxácidos (también llamados oxoácidos) e
+hidróxidos.
+
+27
+
+Hidróxido o base
+Una base se define aquí como una sustancia que libera iones hidróxido (OH)- cuando se
+disuelve en agua.
+ÓXIDO BÁSICO + AGUA→ HIDRÓXIDO O BASE
+Los hidróxidos son combinaciones ternarias de un metal con el grupo hidróxido (OH)-1. Aunque
+sean compuestos ternarios, su formulación y nomenclatura son idénticas a las de los compuestos
+binarios, ya que el grupo (OH)- actúa como un único elemento con valencia 1.
+
+Las bases tienen tantos radicales oxhidrilos como valencia tenga el metal.
+Ejemplos:
+
+Amoníaco y amonio
+El amoniaco (NH3), un compuesto molecular en el estado gaseoso o líquido puro, también se
+clasifica como una base común. A primera vista podría parecer una excepción a la definición de
+base anteriormente mencionada. Pero debe hacerse notar que todo lo que se requiere para que
+una sustancia sea una base es que libere iones hidróxido cuando se disuelve en agua. No es
+necesario que la base original contenga iones hidróxido en su estructura.
+De hecho, cuando el amoniaco se disuelve en agua, el NH3 reacciona con ella al menos
+parcialmente para formar iones amonio (NH4+) y OH-. Por ello es adecuado clasificarlo como una
+base.
+
+Ácidos
+Un ácido se define aquí como una sustancia que libera iones de hidrógeno (H+) cuando se
+disuelve en agua.
+
+28
+
+Las fórmulas de los ácidos inorgánicos están constituidas por uno o más átomos de hidrógeno,
+así como un grupo aniónico.
+Se clasifican en:
+•
+
+Oxoácidos u Oxácidos
+
+•
+
+Hidrácidos (los estudiamos en el bloque I)
+Oxoácidos u Oxácidos
+OXIDO ÁCIDO + AGUA → OXOÁCIDO
+
+Los ácidos que están formados por hidrógeno, oxígeno y otro elemento (no metales y a veces
+es un metal de transición, como el cromo, manganeso, wolframio, etc ) se llaman oxoácidos. En
+general, se pueden considerar derivados de la adición de agua a los óxidos de los no metales,
+simplificando después los subíndices.
+Las fórmulas de los oxoácidos suelen escribirse con el H primero, seguido del elemento del
+átomo central y luego el O, como se muestra en la siguiente serie de oxoácidos:
+𝐻2 𝐶𝑂3
+
+ácido carbónico
+
+𝐻𝑁𝑂3
+
+ácido nítrico
+
+𝐻2 𝑆𝑂4
+
+ácido sulfúrico
+
+Su formulación y nomenclatura se resume en el siguiente cuadro:
+
+Aclaraciones sobre el cuadro anterior:
+
+29
+
+30
+
+Tema Principal (3er bloque)
+En esta segunda etapa se verán la clasificación, formulación y nomenclatura de las sales.
+
+31
+
+Sales
+Clasificación:
+•
+•
+
+Oxisales: provienen de un oxoácido (ácido oxigenado).
+Sales haloideas: provienen de un hidrácido (ácido no oxigenado).
+
+Otra clasificación:
+•
+•
+•
+•
+
+Sales Neutras (la neutralización es completa, no posee H+ ni OH-)
+Sales Ácidas (posee H+ residuales de neutralización)
+Sales Básicas (posee OH- residuales de neutralización)
+Sales Mixtas (más de un catión o anión diferente en su estructura)
+
+Las sales se obtienen mediante las reacciones de NEUTRALIZACIÓN.
+ÁCIDO + BASE ➔ SAL +AGUA
+Por ejemplo:
+𝟑 𝑯𝟐 𝑺𝑶𝟒 +
+
+𝟐 𝑭𝒆(𝑶𝑯)𝟑
+
+⇌
+
+𝑭𝒆𝟐 (𝑺𝑶𝟒 )𝟑 + 𝟔𝑯𝟐 𝑶
+
+Esta es una ecuación química, ya que hay la misma cantidad de elementos en los reactivos
+(compuestos que están a la izquierda de la flecha de reacción) que de elementos en los productos
+(compuestos que están a la derecha de la flecha de reacción). Los números que van antes de la
+fórmula de cada compuesto –coeficientes estequiométricos- tienen por objetivo lograr tal balance.
+Puede decirse también que provienen de la unión de cationes y aniones compensando sus
+cargas. Se nombran según el anión y catión del que provienen.
+
+*Notar que la ecuación química no está balanceada.
+Considerando la nomenclatura clásica de sales:
+
+32
+
+Sales neutras
+Son combinaciones ternarias formadas por oxígeno, un metal y un no metal. Conviene
+considerarlas derivadas de la sustitución total de los hidrógenos de un oxoácido por un metal (o
+por átomos de metales diferentes en caso de sales mixtas)
+
+Aclaraciones del cuadro anterior:
+
+Sales binarias (Haloideas)
+Combinaciones binarias de un metal con un no metal. Son los fluoruros, cloruros, bromuros,
+yoduros, sulfuros, seleniuros, telururos, nitruros, fosfuros, arseniuros, carburos, siliciuros y
+boruros.
+
+33
+
+Sales ácidas
+Provienen de la sustitución parcial de los protones del ácido por un metal.
+Se nombran como las sales neutras, intercalando la palabra ácido precedida por uno de estos
+prefijos: mono (se omite), di, tri, etc, según el número de hidrógenos que contiene la molécula
+
+Sales oxisales básicas
+Se originan cuando en una reacción de neutralización (ácido + base => sal + agua) hay un
+exceso de hidróxido respecto del ácido. Son compuestos que poseen algún grupo OH-.
+Se nombran como las sales neutras intercalando la palabra básico precedida del prefijo mono
+(se omite), di, tri, etc., según el número de grupos OH-presentes en la fórmula.
+𝐻𝑁𝑂3 + 𝑀𝑔(𝑂𝐻)2 ⇌ 𝑀𝑔(𝑂𝐻)𝑁𝑂3 + 𝐻2 𝑂
+
+Nitrato básico de magnesio
+
+34
+
+Sales mixtas
+Con varios cationes:
+Se originan las sustituir los protones de un ácido por más de un catión.
+Se nombran igual que las sales neutras colocando inmediatamente después del nombre del
+anión y al final el nombre de los metales en orden alfabético con prefijos di, tri, etc., según los
+subíndices de dichos en la fórmula.
+Con varios aniones:
+Estas sales son el resultado de unir a un metal plurivalente con aniones procedentes de ácidos
+que han perdido uno o varios protones.
+Se nombran con las palabras de sus respectivos aniones, por orden alfabético, seguidas por el
+nombre del metal.
+
+35
+
+Ejemplos de formulación y nomenclatura de sales
+La nomenclatura tradicional de los oxoácidos es complicada y presenta numerosas
+excepciones, por lo que es mejor conocer los nombres, admitidos por la IUPAC, de los más
+comunes, entre los cuales se encuentran los que aparecen en la siguiente tabla. Cuando en un
+grupo los elementos forman ácidos semejantes, se ha incluido sólo un representante (por ejemplo,
+los ácidos del bromo y del yodo son semejantes a los del cloro).
+
+36
+
+Sales binarias
+
+Ejemplos nomenclatura oxisales
+
+37
+
+Ejemplos nomenclatura sales básicas
+
+Ejemplos nomenclatura sales mixtas
+
+sal doble
+
+nombre
+
+caCl2
+
+Ca(ClO)2
+
+Ca2Cl2(ClO)2
+
+CaClClO
+
+Cloruro-hipoclorito de calcio
+
+AlBr3
+
+Al2(CO3)3
+
+Al3Br3(CO3)3
+
+AlBrCO3
+
+Bromuro-carbonato de aluminio
+
+CaF2
+
+3Ca3(PO4)2
+
+Ca10F2(PO4)6
+
+Ca5F(PO4)3
+
+Fluoruro-(tris)fosfato de calcio
+
+NaCl
+
+NaF
+
+2Na2SO4
+
+Na6ClF(SO4)2
+
+Cloruro-fluoruro-(bis) sulfato de sodio
+
+PbCl4
+
+Pb3(PO4)4
+
+Pb4Cl4(PO4)4
+
+PbClPO4
+
+Cloruro-fosfato de plomo (IV)
+
+Pb(CO3)2
+
+Pb(SO4)2
+
+Pb2(CO3)2(SO4)2
+
+PbCO3SO4
+
+Carbonato-sulfato de plomo (IV)
+
+38
+
+Tema Principal (4to bloque)
+En este bloque se verán los balances estequiométricos, métodos de determinación de
+coeficientes estequiométricos: prueba/error y algebraico. Además se verán los cálculos
+estequiométricos, relaciones de masas, números de moles y volúmenes.
+
+Ecuaciones químicas
+Las ecuaciones químicas se emplean para describir las reacciones químicas e indican:
+1) las sustancias que reaccionan o reactivos (reactantes)
+2) las sustancias que se forman o productos
+3) las cantidades relativas de las sustancias que participan en la reacción
+
+¿Qué indica esta ecuación? En la forma más sencilla indica que el metano reacciona con el
+oxígeno para producir dióxido de carbono (CO2) y agua. En una forma más específica, establece
+que una molécula de metano reacciona con dos moléculas de oxígeno para producir una molécula
+de dióxido de carbono y dos moléculas de agua. El signo “+” significa “reacciona con” y la flecha “
+→” significa “produce”. Es decir:
+
+𝐶𝐻4
+1 molécula
+
++
+
+2 𝑂2
+2 moléculas
+
+Δ
+
+→
+
+𝐶𝑂2
+1 molécula
+
++
+
+2 𝐻2 𝑂
+2 moléculas
+
+Como se indicó antes, no se produce cambio detectable en la cantidad de materia durante
+una reacción química ordinaria. Este principio básico es la ley de la conservación de la materia, y
+constituye la base para el balanceo de las ecuaciones químicas y los cálculos que se realizan a
+partir de dichas ecuaciones.
+Como la materia no se crea ni se destruye durante una reacción química, una ecuación
+química balanceada siempre debe contener el mismo número de átomos de cada tipo en ambos
+miembros o ambos “lados” de la ecuación.
+Todas las sustancias deben representarse por medio de su fórmula molecular (no mínima)
+antes de intentar balancear una ecuación.
+Por ejemplo, para representar a la molécula diatómica del hidrógeno se escribe H2 (fórmula
+molecular) no solamente H, ya que esta última representa únicamente al átomo de hidrógeno.
+Una vez que la fórmula se encuentra expresada en forma correcta, no se pueden cambiar los
+subíndices de la misma, ya que diferentes subíndices en las fórmulas especifican compuestos
+diferentes, y, la ecuación no representa la misma reacción si se cambian las fórmulas.
+39
+
+Cálculos que se realizan a partir de ecuaciones químicas
+Luego de balancear la reacción (ajustando los coeficientes estequiométricos) puedo emplear
+dicha ecuación para realizar cálculos estequiométricos (siempre a partir de la reacción
+balanceada).
+Vamos a emplear la reacción de combustión del metano en exceso de oxígeno. La ecuación
+química balanceada para esta reacción es:
+
+Las ecuaciones químicas también indican las cantidades relativas de cada reactivo y producto
+en una reacción química dada. Se demostró anteriormente que las fórmulas pueden representar
+moles de sustancias. Supóngase que un número de moléculas de CH4 igual al de Avogadro
+participan en la reacción en lugar de sólo una molécula de CH4, por lo que la ecuación se puede
+expresar como sigue:
+
+Esto indica que un mol de metano reacciona con dos moles de oxígeno para producir un mol
+de dióxido de carbono y dos moles de agua. Como se conoce la masa de un mol de cada una de las
+sustancias, se puede escribir lo siguiente:
+
+Ahora la ecuación indica que 16 gramos de CH4 reaccionan con 64 gramos de O2 oxígeno para
+producir 44 gramos de CO2 y 36 gramos de H2O, lo cual satisface la ley de la conservación de la
+materia.
+En la guía de ejercicios podemos encontrar las explicaciones correspondientes a los métodos
+para realizar el balance de reacciones químicas: Problema Nº 21 (explica balance por tanteo) y
+Problema Nº 23 (explica balance algebraico y cálculos estequiométricos)
+40
+
+

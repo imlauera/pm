@@ -1,0 +1,113 @@
+FISICOQUÍMICA
+Profesorado en Matemática - Profesorado en Física
+
+FCEQyN- UNaM
+
+GUÍA DE COLOQUIO
+TEMA N°1
+1. Entre las siguientes propiedades señalar cuáles son propiedades intensivas y cuáles son
+propiedades extensivas: sabor, volumen, densidad, olor, punto de ebullición, peso, dureza, calor
+de vaporización, superficie, punto de fusión.
+2. Indicar si los siguientes sistemas son cerrados, abiertos o aislados.
+Una lata de durazno en el supermercado.
+El planeta tierra
+Un termo para el mate cerrado
+Un plato de sopa
+Una cartuchera
+3. ¿Qué criterio se emplea para diferenciar un sistema homogéneo de un sistema heterogéneo?
+4. Indique si las afirmaciones siguientes son correctas. Proporcione una explicación o ejemplo para
+justificar su respuesta.
+a) Un sistema de un solo componente debe ser homogéneo.
+b) Un sistema de dos componentes líquidos siempre será homogéneo.
+c) Un sistema homogéneo debe estar formado por un solo componente.
+d) Un sistema con dos componentes gaseosos debe ser homogéneo.
+e) Varios componentes distintos deben formar un sistema heterogéneo.
+5. En los siguientes sistemas indicar cuál es homogéneo y cuál es heterogéneo. En los sistemas
+heterogéneos indicar cuántas fases se identifican, cuáles son y el número de componentes:
+a) Granito – b) Varios trozos de hielo en un vaso – c) cloruro de sodio y arena – d) Una
+suspensión de polvo de carbón en una solución de agua con sal – e) Alcohol – f) Una botella
+de soda recién abierta.
+6. ¿Cuál de los siguientes sistemas homogéneos son sustancias puras y cuales son soluciones?
+a) Agua de mar- b) Vino (sin borra) – c) Agua del rio– d) Agua destilada – e) Agua con tintaf) hielo.
+7. Si se tiene un sistema de agua y aceite enunciar si es posible separarlo por decantación.
+8. ¿A qué se denomina vaporización, cuáles son las dos formas de vaporización que existen dar
+ejemplos de cada una?
+9. ¿Cómo es el proceso de licuación de un gas?
+10. a) ¿A qué se denomina punto de ebullición de una sustancia y por qué se considera que es una
+propiedad intensiva? b) Indica el punto de ebullición de tres sustancias conocidas. c) ¿los metales
+tienen punto de ebullición?
+11. ¿A qué se denomina sistema coloidal?
+
+FISICOQUÍMICA
+Profesorado en Matemática - Profesorado en Física
+
+FCEQyN- UNaM
+
+MAGNITUDES FÍSICAS: masa, peso, volumen y densidad
+12. Realizar los cambios de unidades y en los casos que no se pueda indicar por qué
+a) Pasar 12 in a cm
+e) Pasar 5 Ha a km
+b) Pasar 33 g a cm3
+
+f)
+
+Pasar 250 ml a cm3.
+
+c) Pasar 760 mmHg a Pa
+
+g)
+
+Pasar 25 cm a Pa
+
+d) Pasar 5 g/cm3 a Kg/l
+
+h)
+
+Pasar 340 m/s a Km/h
+
+13. Expresar las siguientes magnitudes utilizando los prefijos adecuados:
+a) 0,003 l (litro)
+
+b) 2300 g
+
+c) 0,0000057 g
+
+d) 0,000000046 g
+
+e) 0,0028 l (litro)
+
+14. El casco de un astronauta tiene una masa de 3kg ¿Cuál es su peso en la Tierra y en la Luna?
+Exprésalo en Newton y en Kgf.
+15. La densidad del mercurio es 13,57 g/cm3 , expresar ese valor en Kg/l
+16. ¿Cuánto pesaría una botella de 2,25 l si la llenamos con mercurio?
+17. En Chaco se encuentra uno de los meteoritos más grandes encontrados en el país, es tan
+grande que su masa no puede medirse en ninguna balanza, sin embargo han determinado
+que su masa es de unos 350000 Kg aproximadamente. ¿Cómo te parece que hicieron para
+determinar este valor? El meteorito tiene una forma casi esférica y una composición casi
+homogénea.
+18. Indicar las respuestas correctas
+Si enviamos un objeto rígido, como un ladrillo, a la luna:
+a) Su volumen disminuye. b) su peso disminuye
+c) su masa aumenta d) su peso aumenta
+e) su masa se mantiene igual f) su masa disminuye. g) su densidad se mantiene constante.
+19. Indicar cuál de los siguientes gráficos representa la densidad de una sustancia en función de
+su masa considerando constantes la temperatura y la presión
+
+FISICOQUÍMICA
+Profesorado en Matemática - Profesorado en Física
+
+FCEQyN- UNaM
+
+20. a) Supongamos que tenemos una jeringa cuyo extremo de salida está completamente
+tapado, la jeringa contiene únicamente aire. ¿Qué sucedería con la masa, el volumen, el
+peso, la densidad y la presión del aire dentro de la jeringa si presionamos el émbolo y lo
+desplazamos 1 cm?
+b) ¿Podríamos repetir la experiencia con la jeringa conteniendo solo agua? Explicar.
+21. Cuando introducimos al congelador una botella cerrada que contiene agua, y esta se
+convierte en hielo, suceden algunos cambios. Indicar cuál de las siguientes afirmaciones es
+correcta, el sistema a analizar es la botella con su contenido:
+a) La masa del sistema aumenta. b) Se trata de un cambio químico. c) El volumen del sistema aumenta.
+d) El cambio de estado que tiene lugar se denomina solidificación e) La densidad del sistema disminuye
+f) El cambio de estado que tiene lugar se denomina condensación. g) El peso del sistema disminuye.
+
+
