@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.7)  14 APR 2023 18:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.4.17)  6 MAY 2023 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -143,28 +143,153 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
 )
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen156
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count268
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count269
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen157
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count270
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip64
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count266
+\l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box49
 )
 (./soluciones_tp2.aux)
 \openout1 = `soluciones_tp2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -200,98 +325,118 @@ LaTeX Font Info:    ... okay on input line 9.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package hyperref Info: Link coloring OFF on input line 10.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--21
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count277
+)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--21
-
- []
+(./soluciones_tp2.out) (./soluciones_tp2.out)
+\@outlinefile=\write3
+\openout3 = `soluciones_tp2.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--51
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--55
 
  []
 
@@ -306,197 +451,197 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--101
+Underfull \hbox (badness 10000) in paragraph at lines 56--105
 
  []
 
@@ -509,47 +654,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--120
+Underfull \hbox (badness 10000) in paragraph at lines 106--124
 
  []
 
@@ -562,194 +707,194 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
 [3]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 130
+LaTeX Font Info:    Trying to load font information for U+msa on input line 134
 .
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 130
+LaTeX Font Info:    Trying to load font information for U+msb on input line 134
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 130.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 134.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 130.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 130.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 130.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 134.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 130.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 134.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 130.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 134.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 134.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 134.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 132.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
 
 Missing character: There is no ° in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--138
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 136.
+
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--138
+Underfull \hbox (badness 10000) in paragraph at lines 125--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--138
+Underfull \hbox (badness 10000) in paragraph at lines 125--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--138
+Underfull \hbox (badness 10000) in paragraph at lines 125--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--138
+Underfull \hbox (badness 10000) in paragraph at lines 125--142
 
  []
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 146.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 150.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 146.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 150.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 162.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 166.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 162.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 162.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 162.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 166.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 162.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 166.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 162.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 189.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 189.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 166.
 
 Missing character: There is no ° in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+LaTeX Warning: Command \textdegree invalid in math mode on input line 166.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 166.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 193.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 193.
+
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--193
+Underfull \hbox (badness 10000) in paragraph at lines 164--197
 
  []
 
@@ -763,38 +908,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 209.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 213.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 209.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 211.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 213.
 
 Missing character: There is no ° in font cmr10!
 
@@ -805,17 +922,38 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 217.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 215.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 219.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 219.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 221.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 221.
 
 Missing character: There is no ° in font cmr10!
 
@@ -831,66 +969,73 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 225.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 225.
 
+Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 225.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 229.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 225.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 229.
 
 Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--237
+Underfull \hbox (badness 10000) in paragraph at lines 211--241
 
  []
 
@@ -904,24 +1049,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 244.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 248.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 244.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 246.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 246.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 246.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 246.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 248.
 
 Missing character: There is no ° in font cmr10!
 
@@ -930,40 +1061,12 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
 
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
-
-Missing character: There is no ° in font cmr10!
-Missing character: There is no ° in font cmr10!
-Missing character: There is no ° in font cmr10!
-Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 252.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 252.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 250.
 
 Missing character: There is no ° in font cmr10!
 
@@ -972,25 +1075,32 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 254.
+
 Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 255.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 255.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 255.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 255.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 255.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 255.
-
+Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
@@ -1000,13 +1110,13 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 256.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 256.
 
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 256.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 256.
-
 Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 258.
+
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
@@ -1014,13 +1124,34 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 259.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 263.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 260.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 263.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 260.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 260.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 260.
+
+Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 263.
@@ -1055,13 +1186,6 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 271.
 
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 271.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 273.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 273.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1072,31 +1196,17 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 275.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 275.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 275.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 277.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 279.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 277.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1142,17 +1252,45 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 283.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 283.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 283.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 285.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 285.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 287.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1168,13 +1306,6 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 293.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 293.
 
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 293.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 293.
-
-Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 297.
@@ -1182,48 +1313,13 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 297.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 297.
 
-Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 297.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 297.
 
 Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 299.
-
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 301.
@@ -1233,10 +1329,38 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 301.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 301.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 301.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 303.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1254,10 +1378,17 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 305.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 305.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 305.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 307.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 307.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1265,104 +1396,6 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
 
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 309.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 310.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 311.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 312.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1391,6 +1424,90 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 313.
 
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 313.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 314.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 315.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 316.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1401,24 +1518,24 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 318.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 318.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 319.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 319.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
 
 Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 320.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 320.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 317.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1429,10 +1546,31 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 321.
 
 Missing character: There is no ° in font cmr10!
 
+LaTeX Warning: Command \textdegree invalid in math mode on input line 322.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 322.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 323.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 323.
+
+Missing character: There is no ° in font cmr10!
+
 LaTeX Warning: Command \textdegree invalid in math mode on input line 324.
 
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 324.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 325.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 325.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1448,13 +1586,6 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 332.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 332.
 
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 332.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 332.
-
-Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 336.
@@ -1462,6 +1593,13 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 336.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 336.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 336.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 336.
+
+Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 340.
@@ -1469,13 +1607,6 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 340.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 340.
 
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 340.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 340.
-
-Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 344.
@@ -1497,40 +1628,19 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 348.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 348.
 
-Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 350.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 350.
-
-Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 348.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 348.
 
 Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
-Missing character: There is no ° in font cmr10!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 354.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 354.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 352.
 
 Missing character: There is no ° in font cmr10!
 
@@ -1552,14 +1662,14 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 356.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 356.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 356.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 356.
+
 Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 358.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 358.
-
 Missing character: There is no ° in font cmr10!
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 358.
@@ -1581,344 +1691,379 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 360.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 360.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 360.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 360.
+
+Missing character: There is no ° in font cmr10!
 Missing character: There is no ° in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+LaTeX Warning: Command \textdegree invalid in math mode on input line 362.
 
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 362.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 362.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 362.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 362.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 362.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 364.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 364.
+
+Missing character: There is no ° in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--400
+Underfull \hbox (badness 10000) in paragraph at lines 242--404
 
  []
 
@@ -1957,27 +2102,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.60004pt}.
 
-[9] (./soluciones_tp2.aux) ) 
+[9] (./soluciones_tp2.aux)
+Package rerunfilecheck Info: File `soluciones_tp2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 2358 strings out of 481252
- 31521 string characters out of 5915889
- 332955 words of memory out of 5000000
- 19313 multiletter control sequences out of 15000+600000
- 407438 words of font info for 42 fonts, out of 8000000 for 9000
+ 6205 strings out of 481252
+ 92154 string characters out of 5915888
+ 419069 words of memory out of 5000000
+ 23049 multiletter control sequences out of 15000+600000
+ 407736 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,11n,74p,760b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/esotericwarfare/.texlive2020/texmf-var/font
-s/pk/ljfour/jknappen/ec/tcrm1000.600pk> </home/esotericwarfare/.texlive2020/tex
-mf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb>
-Output written on soluciones_tp2.pdf (9 pages, 86075 bytes).
+ 71i,11n,74p,760b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/esotericwarfare/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tc
+rm1000.600pk> </home/esotericwarfare/.texlive2020/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on soluciones_tp2.pdf (9 pages, 87902 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

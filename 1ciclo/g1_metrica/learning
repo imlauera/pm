@@ -1,0 +1,30 @@
+
+
+
+Un triangulo ABC es isosceles donde el angulo B se opone el lado desigual, tiene dibujada la altura BM, es cierto que los triangulos abm y bcm son congruentes?
+
+dado que el triiangulo abc es isosceles, sabemos uqe los lados ab y bc son iguales. ademas dado que el angulo b se opene al lado desigual, sabmeos que los agnulos en los veritces a y c son iguales.
+
+la altura bm divide el triangulo abc en dos triangulos congruentes, abm y bcm. eso se debe a que la altura bm es tambien la bisectriz del angulo b, dividiendo el angulo a y el angulo c en dos partes iguales.
+
+los lados ab y bc son iguales en ambos triangulos y los angulos en los vertices by  m son iguales en ambos triangulos. por lo tanto podemos concluir q los triangulos abm y bcm son congruentes por el criterio lal (lado angulo lado ( de congruencia de triangulos./
+
+
+hipotesis 
+
+abc es isosceles, bm es bisectriz
+
+Tesis
+ABM y BCM son congruentes
+Demostracion
+Sea BM la bisectriz del angulo B. Considieremos los triangulos ABM y CBM.
+Se verifica que:
+- AB = BC por Hipotesis.
+- BM = BM por Reflexividad de la congruencia
+AM y MC sn congruentes por Hipotesis.
+el angulo a es igual al angulo b por definicion de Bisectriz.
+
+en consecuencia, por los criterios mencionados anteriormente, se verifica que ABM y BCM son congruentes.
+
+
+	- en un cuadrado mnpq se trazo una de las diagonales del mismo, usa algunos de los criterios para demostrar que la diagonal divide al cuadrado en dos triangulos congrunes
