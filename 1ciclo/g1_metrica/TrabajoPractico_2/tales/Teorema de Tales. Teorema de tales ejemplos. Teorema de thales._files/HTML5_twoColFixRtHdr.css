@@ -1,0 +1,394 @@
+@charset "utf-8";
+body {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	font-family: Verdana, Geneva, sans-serif;
+	line-height: 1.4;
+	font-size: 14px;
+}
+/* ~~ Selectores de elemento/etiqueta ~~ */
+ul, ol, dl { /* Debido a las diferencias existentes entre los navegadores, es recomendable no añadir relleno ni márgenes en las listas. Para lograr coherencia, puede especificar las cantidades deseadas aquí o en los elementos de lista (LI, DT, DD) que contienen. Recuerde que lo que haga aquí se aplicará en cascada en la lista .nav, a no ser que escriba un selector más específico. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* la eliminación del margen superior resuelve un problema que origina que los márgenes escapen del bloque contenedor. El margen inferior restante lo mantendrá separado de los elementos de que le sigan.  */
+	padding-right: 15px;
+	padding-left: 5px; /* la adición de relleno a los lados del elemento dentro de los bloques, en lugar de en los elementos del bloque propiamente dicho, elimina todas las matemáticas de modelo de cuadro. Un bloque anidado con relleno lateral también puede usarse como método alternativo. */
+}
+a img { /* este selector elimina el borde azul predeterminado que se muestra en algunos navegadores alrededor de una imagen cuando está rodeada por un vínculo */
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+
+}
+
+/* ~~ La aplicación de estilo a los vínculos del sitio debe permanecer en este orden (incluido el grupo de selectores que crea el efecto hover -paso por encima-). ~~ */
+a:link {
+	color: #222222; /* a no ser que aplique estilos a los vínculos para que tengan un aspecto muy exclusivo, es recomendable proporcionar subrayados para facilitar una identificación visual rápida */
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #006600;
+}
+a:hover, a:active, a:focus { /* este grupo de selectores proporcionará a un usuario que navegue mediante el teclado la misma experiencia de hover (paso por encima) que experimenta un usuario que emplea un ratón. */
+	text-decoration: none;
+}
+/* ~~ Este contenedor de anchura fija rodea a todas las demás bloques ~~ */
+.container {
+	width: 100%;
+	background-color: #FFFFFF;
+	margin: 0 auto; /* el valor automático de los lados, unido a la anchura, centra el diseño  */
+}
+/* ~~ No se asigna una anchura al encabezado. Se extenderá por toda la anchura del diseño. ~~ */
+header {
+	background-color: #ffc66e;
+	height: 100px;
+	width: 100%;
+}
+/* ~~ Estas son las columnas para el diseño. ~~ 
+
+1) El relleno sólo se sitúa en la parte superior y/o inferior de los elementos del bloque. Los elementos situados dentro de estos bloques tienen relleno a los lados. Esto le ahorra las "matemáticas de modelo de cuadro". Recuerde que si añade relleno o borde lateral al bloque propiamente dicho, éste se añadirá a la anchura que defina para crear la anchura *total*. También puede optar por eliminar el relleno del elemento en el  bloque y colocar un segundo bloque dentro de éste sin anchura y el relleno necesario para el diseño deseado.
+
+2) No se asigna margen a las columnas, ya que todas ellas son flotantes. Si es preciso añadir un margen, evite colocarlo en el lado hacia el que se produce la flotación (por ejemplo: un margen derecho en un bloque configurado para flotar hacia la derecha). En muchas ocasiones, puede usarse relleno como alternativa. En el caso de bloques para los que deba incumplirse esta regla, deberá añadir una declaración "display:inline" a la regla del elemento del bloque para evitar un error que provoca que algunas versiones de Internet Explorer dupliquen el margen.
+
+3) Dado que las clases se pueden usar varias veces en un documento (y que también se pueden aplicar varias clases a un elemento), se ha asignado a las columnas nombres de clases en lugar de ID. Por ejemplo, dos bloques de barra lateral podrían apilarse si fuera necesario. Si lo prefiere, éstas pueden cambiarse a ID fácilmente, siempre y cuando las utilice una sola vez por documento.
+
+4) Si prefiere que la navegación esté a la izquierda en lugar de a la derecha, simplemente haga que estas columnas floten en dirección opuesta (todas a la izquierda en lugar de todas a la derecha) y éstas se representarán en orden inverso. No es necesario mover los bloques por el código fuente HTML.
+
+*/
+ @media(max-width:1024px) {
+.sidebar1 {
+    
+   display:none;
+	width: 0%;
+}
+.content {
+    width: 100%;
+}
+
+}
+@media(min-width:1025px) {
+.sidebar1 {
+    
+   
+	float: right;
+	width: 15%;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-bottom: 0px;
+	font-weight: bold;
+	padding-top: 140px;
+}
+.content {
+    width: 85%;
+}
+}
+
+.content {
+	padding: 10px 0;
+	
+	float: left;
+}
+img {
+	max-width: 100%;
+  	height: auto;
+  	box-sizing: border-box;
+}
+
+/* ~~ Este selector agrupado da espacio a las listas del área de .content ~~ */
+.content ul, .content ol {
+	padding: 0 15px 15px 40px ; /* este relleno reproduce en espejo el relleno derecho de la regla de encabezados y de párrafo incluida más arriba. El relleno se ha colocado en la parte inferior para que el espacio existente entre otros elementos de la lista y a la izquierda cree la sangría. Estos pueden ajustarse como se desee. */
+}
+
+/* ~~ Los estilos de lista de navegación (pueden eliminarse si opta por usar un menú desplegable predefinido como el de Spry) ~~ */
+ul.nav {
+	list-style: none;
+	text-align: justify;
+}
+ul.nav li {
+}
+ul.nav a, ul.nav a:visited { /* al agrupar estos selectores, se asegurará de que los vínculos mantengan el aspecto de botón incluso después de haber sido visitados  */
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	width: auto;  /*esta anchura hace que se pueda hacer clic en todo el botón para IE6. Puede eliminarse si no es necesario proporcionar compatibilidad con IE6. Calcule la anchura adecuada restando el relleno de este vínculo de la anchura del contenedor de barra lateral. */
+	text-decoration: none;
+	background-color: #FFFFFF;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* esto cambia el color de fondo y del texto tanto para usuarios que naveguen con ratón como para los que lo hagan con teclado */
+	background-color: #ffc66e;
+	color: #ce0000;
+}
+
+/* ~~ El pie de página ~~ */
+footer {
+	background-color: #ffc66e;
+	position: relative;/* esto da a IE6 el parámetro hasLayout para borrar correctamente */
+	clear: both;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #9c3022;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #ff9900;
+	text-align: center;
+	height: 45px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+
+
+/*Compatibilidad con HTML 5: define nuevas etiquetas HTML 5 como display:block para que los navegadores sepan cómo procesar las etiquetas correctamente. */
+header, section, footer, aside, article, figure {
+	display: block;
+}
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: #222222;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	margin: 20px;
+}
+
+@media(max-width:768px) {
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #9c3022;
+	font-style: normal;
+	padding-top: 20px;
+	padding-left: 10px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	margin: 20px;
+	padding-right: 20px;
+}
+	
+}
+@media(min-width:769px) {
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #9c3022;
+	font-style: normal;
+	padding-top: 20px;
+	padding-left: 100px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	margin: 20px;
+	padding-right: 20px;
+}
+}	
+
+@media(max-width:768px) {
+
+h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #194f90;
+	font-style: normal;
+	padding-top: 20px;
+	padding-left: 10px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	margin: 20px;
+}
+ } 
+@media(min-width:769px) {
+h3 {
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #194f90;
+	font-style: normal;
+	padding-top: 20px;
+	padding-left: 50px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	margin: 20px;
+}
+ } 
+h4 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #006600;
+	/* [disabled]padding-top: 20px; */
+	/* [disabled]padding-right: 20px; */
+	/* [disabled]padding-bottom: 20px; */
+	/* [disabled]padding-left: 25px; */
+	margin: 20px;
+	font-weight: bold;
+}
+h6 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #ffcc00;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+	margin: 20px;
+}
+
+h5 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+	color: #FF9900;
+	margin: 20px;
+}
+
+@media(max-width:768px) {
+p {
+   margin-left: 0px;
+	}
+}
+	
+
+@media(min-width:769px) {
+p {
+   margin-left: 10px;
+	}
+}
+
+
+.FL {
+	float: left;
+}
+.FR {
+	float: right;
+}
+.negrita {
+	font-weight: bold;
+}
+
+
+.sub_logo {
+    background-color: #ffcc00;
+    font-weight: bold;
+    color: #0d58a6;
+    text-align: center;
+    margin-left: 0px;
+}
+.sub_azul {
+	font-weight: bold;
+	color: #3169a5;
+}
+.sub_verde_claro {
+	font-weight: bold;
+	color: #00a200;
+}
+.sub_verde {
+	font-weight: bold;
+	color: #006600;
+}
+.sub_azul_claro {
+	font-weight: bolder;
+	color: #0099cc;
+}
+.letra_roja {
+	color: #FF3300;
+
+}
+.cabecero_tabla {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #194f90;
+	background-color: #ced4dd;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.letra_burdeos {
+	color: #9c3022;
+}
+.letra_azul {
+	color: #3169a5;
+}
+.letra_verde {
+	color: #006600;
+}
+table {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border: 1px solid #999999;
+	color: #333;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	padding-top: 0%;
+	padding-right: 0%;
+	padding-bottom: 0%;
+	padding-left: 0%;
+  	max-width: 100%;
+  	box-sizing: border-box;
+}
+td {
+	color: #3169a5;
+	border: 1px solid #999;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 2px;
+	padding-left: 2px;
+}
+th {
+	background-color: #fdd475;
+	border: 1px solid #999;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 1%;
+}
+
+.centro_contenido {
+	padding-left: 20%;
+}
+
+
+
+.tabla_cabecero {
+	background-color: #ffdf73;
+	border: 1px solid #000;
+}
+
+
+section {
+
+
+
+
+
+}
+aside {
+
+}
+.letra_griega {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#oper_reales {
+	padding-top: 5%;
+	padding-bottom: 15%;
+	padding-left: 15%;
+	padding-right: 15px;
+}
+#valor_absoluto {
+	padding-top: 5%;
+	padding-right: 15%;
+	padding-bottom: 10%;
+	padding-left: 15%;
+}
+.seno_inverso {
+	float: left;
+	height: 410px;
+}
+.letra_verdana {
+	font-family: Verdana, Geneva, sans-serif;
+}

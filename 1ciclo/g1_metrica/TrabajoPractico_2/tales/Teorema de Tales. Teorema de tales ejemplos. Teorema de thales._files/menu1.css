@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	outline: 0;
+	margin-left: 0%;
+}
+@media(max-width:768px) {
+.menu1 {
+    
+    z-index: 9999;
+   
+}
+}
+
+@media(min-width:769px) {
+.menu1 {
+    
+   display:none;
+	
+}
+}
+
+
+nav {
+    position: relative;
+    width: 20vw;
+    min-width: 200px;
+    height: 150px;
+    float: left;
+   
+}
+
+nav h5 {
+    
+  
+    border-radius: 2px;
+    position: relative;
+    background-color: #FFc66e;
+    height: 50px;
+    text-transform: uppercase;
+    color: ivory;
+    font-weight: 200;
+    display: flex;
+    flex: 1;
+    box-shadow: 4px 4px 20px -2px rgba(0,0,0,.35);
+    transition: all .4s;
+    width: 50px;
+    
+}
+
+nav:hover h5{
+  transform: translateY(-2px);
+  box-shadow: 2px 2px 5px -1px rgba(0,0,0,.35);
+ }
+nav:hover:active h5{
+  transform: translateY(10px);
+  box-shadow: 0px -1px 2px 0px rgba(0,0,0,.35);
+ }
+
+input {
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    width: 100px;
+    z-index: 1;
+    opacity: 0;
+    cursor: pointer;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+    bottom: 0px;
+    
+}
+
+#toggle:checked ~ul {
+    height: 0%;
+    
+   
+}
+
+nav ul {
+    padding-left: 0;
+    padding-top: 0;
+    margin-top: 0;
+    list-style: none;
+    overflow: hidden;
+    text-align: right;
+    text-align: center;
+    transition: all .4s ease-out;
+    height: 115%;
+ 
+  
+}
+nav ul li {
+    border-radius: 2px;
+    position: relative;
+    display: inline-block;
+    line-height: 1.5;
+    margin-right: 0;
+    margin-left: 0px;
+    background-color: #FFC66E;
+    transition: background 3s;
+    box-shadow: 2px 2px 10px -2px rgba(0,0,0,.35);
+    float: left;
+    padding-bottom: 12px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: 100%;
+   border: 1px solid #FFFFFF;  
+  
+    
+}
+
+
+nav ul li:hover {
+    background-color: #FFFFFF;
+    transition: background .45s;
+    bottom: 0px;
+    right: 0px;
+}
+
+nav ul a {
+    display: block;
+    color: ivory;
+    font-size: 18px;
+    font-weight: 200;
+    text-decoration: none;
+    transition: color .3s;
+    float: left;
+    margin-left: 5px;
+    height: 100%;
+     
+    
+}
+
+ .centrado {
+    text-align: center;
+
+}
+
+.sin {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.float  {
+	float: left;
+}
+
+
+
+.justo{
+    
+    text-align: justify;
+} 
