@@ -1,0 +1,227 @@
+\documentclass[11pt]{article}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\begin{document}
+\maketitle	
+\pagebreak
+
+\section{Practica 1}
+
+\par\noindent\rule{\textwidth}{0.4pt}
+\textbf{9.  Un cohete es lanzado desde el nivel del piso con un ángulo de elevación de 43 grados si el cohete le paga a un avión que vuela a 20000 pies , encuentra la distancia horizontal entre el punto de lanzamiento y el punto situado directamente debajo de el avión ¿cuál es la distancia en línea recta entre el lanzacohetes y el avión?}\\
+Desde el punto de vista de la trigonometria, este problema se resuelve como un triangulo rectangulo, asi tenemos que como no me indicas si la distancia de 10000 pies es horizontal o la recorrida por el cohete e su trayectoria, voy a asumir que la trayectoria del cohete:  \\ 
+\\ 
+Hipotenusa= 10000 pies    \\ 
+\\ 
+Angulo entre la horizontal y la hipotenusa= 75°    \\ 
+\\ 
+Cateto opuesto= Altura que alcanza el cohete.      \\ 
+\\ 
+Luego tenemos que:      \\ 
+\\ 
+Seno 75= Cateto opuesto/hipotenusa => Cateto opuesto= Hipotnusa * (seno 75)      \\ 
+\\ 
+Cateto opuesto= 9660 pies    \\ 
+\\ 
+La altura que alcanza el cohete es de 9660 pies.\\ 
+\par\noindent\rule{\textwidth}{0.4pt}
+10.  El ángulo entre los lados de un paralelogramo es de 40 grados las longitudes de los lados son de 5 cm y 10 cm calcula la longitud de la diagonal
+
+El angulo entre dos lados de un paralelogramo es de 40 ´ ◦. Si las longitudes de los lados son 5 y 10 cm, calcule las longitudes de las dos diagonales \\
+
+la respuesta es  :4/7\\
+Si  trazamos una altura desde el vértice se forma un triángulo rectángulo notable de 60° y 30°, por lo que sus catetos son:\\
+y la hipotenusa es \\
+\\
+Si vemos que la hipotenusa es 8, entonces su base es 4 y su otro cateto es \\
+\\
+Como la base del trapecio es 12 y del triángulo es 4, su base del cuadrado formado por la diagonal y el cateto es 8.\\
+\\
+
+11. Desde un punto en el suelo a 500 pies de la base de un edificio, un observador encuentra que el angulo de elevaci ´ on a lo alto del edi ´ ficio es 24◦ y que el angulo de elevaci ´ on´
+a lo alto de una astabandera que esta en el edi ´ ficio es de 27 grados (ver figura 3). Encuentre la altura del edificio y la longitud de la astabandera
+
+La altura del edificio y la longitud del asta de la bandera es:\\
+\\
+Edificio = 222.61 pies\\
+Asta = 35.15 pies\\
+¿Qué es un triángulo?\\
+Es un polígono de tres lados. Y sus ángulos internos sumados son 180°.\\
+\\
+Un triángulo rectángulo tiene como característica que uno de sus ángulos internos es recto (90º).\\
+\\
+¿Qué son las razones trigonométricas?\\
+La relación que forman los catetos de un triángulo rectángulo con sus ángulos y las funciones trigonométricas.\\
+\\
+Sen(a) = Cat. Op/Hip\\
+Cos(a) = Cat. Ady/Hip\\
+Tan(a) = Cat. Op/Cat. Ady\\
+¿Cuál es la atura del edificio y la longitud del asta?\\
+Aplicar razones trigonométricas; para determinar la altura b del edificio.\\
+\\
+Tan(24º) = b/500\\
+\\
+Despejar b;\\
+\\
+b = 500 Tan(24º)\\
+\\
+b = 222.61 pies\\
+\\
+Tan(27º) = (a + 222.61)/500\\
+\\
+Despejar a;\\
+\\
+a + 222.61 = 500 Tan(27º)\\
+\\
+a = 254.76 - 222.61\\
+\\
+a = 32.15 pies\\
+\\
+
+
+12. 
+desde lo alto de un faro de 200 pies, el ángulo de depresión a un barco en el océano es de 23 grados. ¿ A qué distancia esta el barco desde la base del faro? 
+
+La distancia del barco a la base del faro es de 471,17p aproximadamente  
+Explicación paso a paso:
+Te dejo gráfica en la parte inferior para mayor comprensión del problema.
+El triángulo ABC es un triángulo rectángulo
+Cateto adycente = x
+Hipotenusa = h
+Cateto opuesto = 200p
+Tan23° = Cateto Opuesto/Cateto adyacente
+Tan23° = 200p/x
+xTan23° = 200p
+x = 200p/Tan23°                                  Tan23° = 0,42447
+x = 200p/0,42447
+x =  471,17p
+
+13. Una torre de agua esta situada a 325 pies de un edi ´ ficio (vea la figura 4). Desde una\\
+ventana del edificio, un observador ve que el angulo de elevaci ´ on a la parte superior ´\\
+de la torre es 39◦ y que el angulo de depresi ´ on de la parte inferior de la torre es 25 ´ ◦.\\
+¿Cual es la altura de la torre? ¿Cu ´ al es la altura de la ventana?\\
+
+ La altura de la torre de agua es 414,70 pies. La altura de la ventana del observador es  151,52 pies.\\
+\\
+\\
+¿Qué son Funciones o razones Trigonométricas?\\
+Son las relaciones existentes entre los catetos, la hipotenusa y los ángulos de un triángulo rectángulo.\\
+\\
+Sean\\
+\\
+a: un cateto opuesto de un triángulo rectángulo\\
+\\
+b: un cateto adyacente de un triángulo rectángulo\\
+\\
+c: la hipotenusa de un triángulo rectángulo\\
+\\
+La razón trigonométrica de la función tangente es:\\
+\\
+tan a = Cateto opuesto / cateto adyacente\\
+\\
+La altura de la ventana del observador:\\
+\\
+tan65° = 325 pies/a1\\
+\\
+a1 = 325 pies /2,145\\
+\\
+a1 = 151,52 pies\\
+\\
+\\
+La altura de la ventana a la altura de torre de agua:\\
+\\
+tan39° = a2/325 pies\\
+\\
+a2 = 325 pies*tan39°\\
+\\
+a2 = 263,18 pies\\
+\\
+\\
+La altura de la torre de agua:\\
+\\
+y = a1 + a2\\
+\\
+y = 151,52 pies +263,18 pies\\
+\\
+y = 414,70 pies\\
+\\
+
+
+14. 
+Un globo de aire caliente esta´ flotando sobre una carretera recta. Para estimar la altura a
+la que se encuentran los tripulantes del globo, estos simult ´ aneamente miden el ´ angulo ´
+de depresion a dos se ´ nalamientos consecutivos de kilometraje situados en la carretera, ˜
+en el mismo lado del globo. Se encuentra que los angulos de depresi ´ on son 20 ´ ◦ y 22◦.
+¿A que altura est ´ a el globo?
+
+Respuesta:\\
+\\
+La altura a la que está el globo es : h = 3.7 Km de altura.\\
+\\
+Explicación paso a paso:\\
+\\
+La altura a la que está el globo flotando se calcula mediante la aplicación de razones trigonométricas, específicamente la tangente de un ángulo de la siguiente manera :\\
+\\
+h = altura del globo=?\\
+\\
+La distancia entre los dos postes consecutivos para el marcaje de kilómetros sobre la carretera = d = 1 Km.\\
+\\
+Ver adjunto en donde se realiza un dibujo de la situación.\\
+\\
+ \\
+\\
+tang 22º= h/x         tang20º = h /(x+1Km)\\
+\\
+ \\
+\\
+ se despeja x de cada ecuación y se igualan :\\
+\\
+         x  = h/tang22º              x = (h/tan20º)  - 1Km\\
+\\
+   Al igualar queda:\\
+\\
+               h/tang22º = (h/tan20º)  - 1Km\\
+\\
+               2.48h = 2.75h - 1\\
+\\
+                     h = 3.7 Km\\
+
+15. Un angulo central determina un arco de 6 cm en una circunferencia de 30 cm de radio. ´
+Expresar el angulo central fi en radianes y en grados
+\\
+\\
+6 = a(30)\\
+1/5 = a\\
+\\
+radianes\\
+1/5 * pi/180 = pi/900\\
+
+16.
+Una vía férrea describe un arco de circunferencia¿ que radio se debe utilizar si la vía tiene que cambiar de dirección en 25° en un recorrido de 120 m
+
+fi = 25° . 2pi rad/360° = 0,436 rad
+
+fi = L/R; de modo que R = L/fi = 120 m / 0,436 rad = 275 metros.
+
+17. 
+18. En un c´ırculo trigonometrico, se ´ nalar los segmentos trigonom ˜ etricos de cada uno de ´
+los siguientes angulos
+
+20. Encuentre "x" redondeada a un lugar decimal.
+https://qanda.ai/es/solutions/hJL9tsPHYM
+
+Sigue en el documento word.
+
+
+
+\end{document}
