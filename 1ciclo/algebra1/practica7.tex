@@ -1,0 +1,300 @@
+Verifique en cada caso si las funciones que se definen son homomorfismos:
+
+a) $f(Z* , * ) -> (Z *, *) f(x)=x^2$
+$\forall a \in Z*, Para todo b \in Z* : f(a*b) = f(a)*f(b)$
+Si el primero es una suma el otro tambien debe ser suma es decir
+f(a+b) = f(a)+f(b)
+
+El primer producto hace referencia a (Z*, *) y el segundo producto hace referencia a (Z*,*)
+
+
+a > f(a)=a^2
+b > f(b)=b^2
+
+f(a*b)=f(a)*f(b)
+
+(a*b)^2 = a^2 * b^2
+a^2*b^2 = a^2*b^2
+
+Por la propiedad distributiva de la potenciacion.
+
+
+c) (Z, + ) -> (Z,+)
+
+x -> f(x) = x+3
+
+
+\forall a \in Z, \forall b in Z, f(a+b)=f(a)+f(b)
+f(a+b) = f(a)+f(b)
+
+Escribimos las imagenes
+a+b+3 = (a+3)+(b+3)
+a+b+3 = a+b+6
+
+No se cumple, en efecto no es un homomorfismo, ya que a+b+3 \notequal a+b+6
+
+Arrancamos el practico 5 o hacemos uno mas del 4 y el 3?
+
+
+Ejercicio Nº 9:
+En Z se definen las operaciones siguientes:
+
+a o b = a+b+1
+a \perp b = a+b+a*b
+
+Determine que estructura tiene (,o,\perp)
+
+
+Lleva mucho tiempo hacer este ejercicio.
+Este ejercicio era un ejercicio de parcial de anios anteriores.
+
+
+Guía de ejercicios Prácticos Nº 4:
+######
+
+Ejercicio Nº 1: En una division entera, el divisor es 12 y el cociente es 5. ¿Cuál es el dividendo? 
+si a) el resto es el mayor posible. b) el resto es el menor posible.
+
+1) divisor = 12
+cociente = 5 
+calcular el dividendo = ¿?
+
+el dividendo será igual a 
+a = b*q+r, 0 <= r < |b|
+
+
+a |_b__
+r  q
+
+a |__b__
+r  5
+
+
+a) r = 11
+a = 12*5+11
+a = 71
+
+b) r = 0
+a = 12*5+0
+a = 60 
+
+
+
+2) Teniendo en cuenta el algoritmo de la division en Z, determine q y r si:
+
+a) a = 4231, b = 7
+ 4231 |__7__
+-42   604
+-----
+   31
+  -28
+-----
+    3
+
+
+ 4231 |_7___
+-42    -604
+-----
+  -31
+ --28
+-----
+   -3
+El resto nunca puede ser negativo.
+
+
+ 4231 |_7___
+-42    -605
+-----
+  -31
+ --35
+-----
+    4
+
+Se puede verificar haciendo 7*604+3=4231
+y se puede verificar haciendolo -4231 = 7*(-605)+4
+Algoritmo euclides para la division.
+
+Ahora tenemos que hacer el c)
+El resto nunca puede ser negativo.
+c) a = 132, b = -89
+
+ 132 |_-89__
+ -89   -1
+----
+  43
+  //fin.
+
+Ejercicio 3: Para a igual a 12 y b = 18 , halle D(a) y D(b) y determine por inspeccion al maximo comun divisor entre a y b.
+
+Tengo que encontrar todos los divisores de 12 todos los divisores de 18 encontrar cuales son iguales y cual es el maximo.
+Puedo hacer por factoreo 
+
+\textbf{Metodo por factoreo}
+12|2
+ 6|2
+ 3|3
+ 1
+
+
+12 = 2^2 * 3
+
+
+18|2
+ 9|3
+ 3|3
+ 1
+
+18 = 2*3^2
+
+
+MCD(12,18) = 2*3 = 6
+
+-----------------
+Otra manera de hacerlo:
+
+$D(a) = { x \in Z / x|a }$
+$D(12) = {+-1,+-2,+-3,+-4,+-6,+-12}
+$D(18) = {+-1,+-2,+-3,+-6,+-9,+-18}
+
+
+$MCD(12,18) = Max {D(12) n\cap D(18)} = 6$
+
+
+ 18 |__12__
+-12  1
+---
+  6
+
+
+
+
+Sucesivas divisiones me van a permitir encontrar
+La primera division que tenemos que hacer l dvidendo el divisor
+
+El divisor para ser el nuevo dividendo.
+Luego el resto va a pasar a ser el divisor de la siguiente division.
+
+ 12 |__6__
+-12  2
+---
+  0
+
+Como el último resto me dió 0 considero el último resto no nulo de las dos divisiones y ese será el MCD.
+En este caso fue sencillo hicimos 0 divisiones.
+
+
+El último resto no nulo será el maximo comun divisor.
+
+
+Ejercicio 4: Halle el mcd(a,b) = d para:
+a) (84,45)
+
+a) MCD(84,45)
+ 84 |_45__ -- Si aca despejo el resto me queda: 39=84-45*1
+-45  1
+---
+ 39
+
+ 45 |__39__ -- Si aca despejo el resto me queda: 6=45-39*1
+-39  1
+----
+  6
+
+Tomamos nuevamente divisor y resto.
+  39 |_6__ -- Si aca despejo el resto me queda: 3=39-6*6
+ -36  6
+----
+   3 --- Este es el maximo comun divisor (el ultimo resto no nulo)
+
+ 6 |_3__
+-6  2
+ 0
+
+Sean a y b \in Z, no simultaneamente nulos, de N tal que d|a^b|b.
+Entonces, son equivalentes:
+i. d = (a,b)
+ii. \exists u,v \in Z tq. d=u.a+v.b
+iii. Si s \in Z es tal que s|a^s|b entonces s|d.
+
+\textbf{Teorema de Bezout} :
+del algoritmo de euclides sabemos = a=bq+r -- r=a-b(divisor)q(cociente).
+
+
+La clave es no resolver las operaciones , sino que resolver algunas y dejar otras expresadas por producto.
+
+queremos llegar a d=u.a+v.b
+
+Del ejercicio anterior llegamos a 
+3=39-6*6
+3=39-6(45-39*1)
+3=39-6*45 +6*39
+3=7*39-6*45
+
+d = ua+vb
+d = u*84 + v*45
+Todos los terminos que tengan 84 y 45 no los voy a operar.
+
+
+3 = 7*(84-45*1)-6*45
+3 = 7*84 - 7*45 - 6*45
+3 = 7*84 - 13*45
+3 = \underbrace{7}_{=u}*84 + \underbrace{(-13)}_{=v}*45
+
+
+Son coprimos cuando el maximo comun divisor entre ellos es 1.
+
+Ahora hacer el ejercicio Nº 4 b) (-84,45)
+
+-84 |_45__
+-90  -2 -- Maximo comun divisor
+---  ------- Despejo: 6=(-84)-45*(-2)
+  6
+
+ 45 |__6__
+-42  7   
+--- ------- Despejo: 3=45-6*7
+  3
+
+
+ 6 |_3__
+-6  2
+--- 
+ 0
+
+Maximo comun divisor (-84,45) = 3
+
+3 = 45-6*7
+3 = 45-[-84-45*(-2)]*7
+3 = 45-7*(-84)-27*45
+3 = 45-7*(-84)-14*45
+3 = -13*45-7*(-84)
+3 = \underbrace{(-7)}_{u}*\underbrace{(-84)}_{a} + \underbrace{(-13)}_{v}*\underbrace{45}_{b}
+
+
+Ejercicio Nº7: Pruebe que 81 y 35 son coprimos y halle u,v \in Z/ u.81 + v.35 = d, siendo d=mcd(35,81)
+
+26 es el parcial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
